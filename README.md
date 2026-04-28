@@ -46,13 +46,6 @@ I transform complex datasets into actionable insights for the entertainment and 
 
 ---
 
-### 🎨 Creative Studio
-*Currently developing a stylized art portfolio focusing on high-contrast environmental storytelling.*
-* **Current Focus:** Gothic architecture lit by cyber-neon.
-* **Inspiration:** *Elden Ring* atmosphere + Anime linework.
-
----
-
 ### ⚡ GitHub Activity
 ![Himadri's Stats](https://github-readme-stats.vercel.app/api?username=himadrishekharbarman&theme=tokyonight&show_icons=true&hide_border=true&title_color=B066FF&text_color=ffffff&icon_color=FF00FF)
 
