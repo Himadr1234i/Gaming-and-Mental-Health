@@ -42,7 +42,7 @@ I transform complex datasets into actionable insights for the entertainment and 
 #### 🔗 Explore the Work:
 * 📊 **[Live Interactive Dashboard](https://himadrishekharbarman.github.io/[Your-Repo-Name]/gaming_dashboard_v4.html)** — *Best viewed on Desktop.*
 * 📁 **[Cleaned Dataset: whole_set3.csv](./Data/whole_set3.csv)** — *Source data (1,000+ entries).*
-* 📁 **[SQL Processing Scripts](./SQL_Query/Gamers mind3.sql)** — *Data cleaning and Case logic.*
+* 📁 **[SQL Processing Scripts](./SQL_Query/Gamers_mind3.sql)** — *Data cleaning and Case logic.*
 
 ---
 
