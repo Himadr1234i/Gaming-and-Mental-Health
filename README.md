@@ -52,5 +52,5 @@ I transform complex datasets into actionable insights for the entertainment and 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Link]
-* **Email:** [Your Email]
+* **LinkedIn:** [[Link]](https://www.linkedin.com/feed/)
+* **Gmail:** himadrisb15@gmail.com
