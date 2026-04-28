@@ -1,0 +1,1001 @@
+record_id,gender,gaming_platform,age_group,game_genre,primary_game,daily_gaming_hours,sleep_status,sleep_hours,sleep_disruption_frequency,mood_swing_frequency,gaming_addiction_risk_level,academic_work_performance,grades_gpa,work_productivity_score,exercise_hours_weekly,social_isolation_score,eye_strain,back_neck_pain,monthly_game_spending_usd
+GD0001,Male,Mobile,13-18,"Mobile Games","Clash of Clans",11.1,"Very Poor",3.7,Sometimes,Never,Severe,"Below Average",1.25,,3.7,7,TRUE,FALSE,383.7
+GD0002,Male,PC,19-24,MOBA,"Dota 2",3,Good,7.2,Rarely,Often,Low,Good,3.75,2,8.5,2,FALSE,FALSE,46.64
+GD0003,Male,PC,19-24,FPS,CS:GO,7.6,Poor,4.4,Often,Rarely,Severe,Poor,,9,7.1,5,FALSE,TRUE,100.81
+GD0004,Female,Multi-platform,19-24,RPG,Skyrim,7.2,Poor,5.1,Often,Daily,High,Poor,1.62,2,5.2,4,TRUE,TRUE,51.6
+GD0005,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",6.8,"Very Poor",3.4,Never,Daily,Moderate,Average,2.44,,6.1,4,FALSE,FALSE,32.57
+GD0006,Male,Mobile,19-24,"Mobile Games","Clash of Clans",2.1,Good,7.5,Rarely,Never,Low,Good,3.81,4,10.8,1,FALSE,FALSE,8.63
+GD0007,Male,Multi-platform,19-24,FPS,"Call of Duty",2.7,Good,7.2,Often,Rarely,Low,"Below Average",1.82,6,10,2,FALSE,FALSE,35.25
+GD0008,Female,Mobile,25-30,"Mobile Games","Clash of Clans",10.3,Poor,5.2,Sometimes,Rarely,Severe,Poor,,1,5.6,6,TRUE,TRUE,299.28
+GD0009,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",1.4,Good,8.9,Always,Daily,Low,Good,2.43,,10.1,1,FALSE,FALSE,49.4
+GD0010,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",7.6,"Very Poor",3.5,Often,Never,Severe,Average,1.13,,4.5,6,TRUE,FALSE,135.2
+GD0011,Male,PC,13-18,FPS,CS:GO,1.5,Good,8.4,Often,Daily,Low,Good,3.04,,10.1,1,FALSE,FALSE,28.23
+GD0012,Male,PC,13-18,Strategy,"StarCraft II",3,Good,7.2,Sometimes,Rarely,Low,Excellent,3.15,,9.4,1,FALSE,FALSE,46.36
+GD0013,Male,Multi-platform,25-30,"Mobile Games","Genshin Impact",9.5,"Very Poor",3.6,Never,Rarely,High,Poor,,8,5.1,5,TRUE,TRUE,482.71
+GD0014,Male,Multi-platform,19-24,RPG,Skyrim,5.1,Poor,5.3,Never,Rarely,Low,Average,3.25,6,7.6,3,TRUE,FALSE,36.07
+GD0015,Male,Multi-platform,19-24,RPG,"Elden Ring",5.8,Poor,5.2,Often,Rarely,Low,Good,2.54,2,8.2,3,FALSE,TRUE,104.01
+GD0016,Male,Mobile,25-30,"Mobile Games","Clash of Clans",7.3,Fair,5.6,Often,Never,High,Poor,,5,6.9,6,TRUE,TRUE,68.25
+GD0017,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",3,Good,7.4,Sometimes,Never,Low,Poor,1.64,3,6.7,3,FALSE,FALSE,1.63
+GD0018,Female,PC,19-24,MOBA,"League of Legends",11.3,Poor,4.6,Sometimes,Often,High,Poor,1.89,8,4.9,9,TRUE,TRUE,77.24
+GD0019,Male,Multi-platform,19-24,FPS,"Call of Duty",8.4,"Very Poor",3.2,Always,Sometimes,Severe,Average,2.76,2,7.1,7,TRUE,FALSE,118.79
+GD0020,Male,Multi-platform,19-24,"Battle Royale",Warzone,9.4,Poor,5.5,Sometimes,Rarely,Severe,"Below Average",2.14,7,4.8,7,FALSE,TRUE,120.16
+GD0021,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",6.5,Poor,4.4,Always,Never,Moderate,"Below Average",2.91,3,6.4,6,TRUE,FALSE,16.99
+GD0022,Female,PC,13-18,MOBA,"League of Legends",6.1,Poor,5.3,Sometimes,Often,Moderate,Good,1.12,,5.8,1,FALSE,TRUE,53.52
+GD0023,Female,Multi-platform,13-18,RPG,Skyrim,6.3,Fair,6.5,Rarely,Never,Moderate,Average,3.27,,7.5,4,TRUE,FALSE,126.54
+GD0024,Female,Multi-platform,19-24,"Battle Royale",PUBG,8.9,Fair,5.7,Never,Rarely,High,Average,2.63,8,5.7,5,TRUE,TRUE,66.37
+GD0025,Male,Mobile,19-24,"Mobile Games","Candy Crush",5.2,Fair,7,Rarely,Rarely,Low,Good,1.94,1,6.2,2,FALSE,FALSE,60.06
+GD0026,Male,Mobile,19-24,"Mobile Games","Candy Crush",3.4,Good,8.7,Always,Sometimes,Low,Average,3.41,9,7.8,3,FALSE,FALSE,37.26
+GD0027,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",5.9,Fair,6.6,Always,Often,Low,"Below Average",3.91,,8,3,TRUE,TRUE,55.47
+GD0028,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",8.2,Poor,5.4,Always,Rarely,Moderate,Poor,3.71,,6.5,5,TRUE,TRUE,57.15
+GD0029,Male,PC,19-24,MMO,"World of Warcraft",1.2,Good,7.1,Always,Sometimes,Low,Good,2.31,9,8.6,2,FALSE,FALSE,34.91
+GD0030,Female,Multi-platform,19-24,RPG,Skyrim,4.7,Fair,5.8,Rarely,Sometimes,Low,Average,1.62,4,5.6,3,TRUE,FALSE,126.85
+GD0031,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",1,Good,7.3,Sometimes,Never,Low,Average,1.21,5,8.9,1,FALSE,FALSE,21.09
+GD0032,Male,Mobile,13-18,"Mobile Games","Clash of Clans",5.1,Fair,6.4,Always,Often,Low,Average,3.02,,8.9,2,FALSE,FALSE,36.53
+GD0033,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.9,Fair,6.8,Rarely,Never,Low,Poor,3.39,6,7.5,3,FALSE,TRUE,147.6
+GD0034,Male,Multi-platform,19-24,"Battle Royale",PUBG,5.2,Fair,5.6,Often,Rarely,Low,Average,3.03,8,7.9,5,TRUE,FALSE,19.91
+GD0035,Male,PC,13-18,FPS,CS:GO,6.6,Poor,4.1,Often,Sometimes,High,Poor,3.98,,5.5,5,FALSE,FALSE,93.68
+GD0036,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",4.6,Poor,5.4,Never,Sometimes,Low,Average,1.15,6,8.4,4,TRUE,FALSE,80.92
+GD0037,Male,Mobile,19-24,MOBA,"Mobile Legends",2.8,Good,8.3,Never,Never,Low,Excellent,3.54,9,8.3,3,FALSE,FALSE,45.96
+GD0038,Male,PC,19-24,Strategy,"StarCraft II",7.6,Poor,4.2,Never,Never,Moderate,Poor,2.7,9,5.2,6,TRUE,TRUE,123.45
+GD0039,Female,PC,13-18,MOBA,"League of Legends",2.3,Good,8.4,Often,Daily,Low,Average,1.22,,7.2,2,FALSE,FALSE,42.43
+GD0040,Male,Multi-platform,19-24,RPG,"Elden Ring",4.4,Fair,6.4,Often,Rarely,Low,Excellent,1.38,2,9.1,4,FALSE,FALSE,26.63
+GD0041,Male,Multi-platform,31+,MMO,"Elder Scrolls Online",3.1,Good,8.4,Never,Rarely,Low,Average,,8,8.3,1,FALSE,FALSE,47.69
+GD0042,Male,PC,13-18,FPS,Valorant,8,"Very Poor",3.8,Sometimes,Sometimes,Severe,Failing,3.22,,6,8,TRUE,TRUE,61.37
+GD0043,Male,PC,19-24,Strategy,"StarCraft II",4.2,Poor,5.4,Sometimes,Often,Low,Average,2.21,7,7.1,1,FALSE,FALSE,9.18
+GD0044,Male,Multi-platform,19-24,"Battle Royale",PUBG,7.9,"Very Poor",3.5,Never,Rarely,High,"Below Average",2.25,3,7,6,FALSE,TRUE,81.23
+GD0045,Female,Mobile,13-18,"Mobile Games","PUBG Mobile",3.9,Poor,5.1,Sometimes,Rarely,Low,Good,2.88,,7.8,2,FALSE,FALSE,17.43
+GD0046,Female,PC,25-30,Strategy,"Age of Empires",6.2,Fair,5.7,Never,Daily,Moderate,Average,,5,5.5,3,TRUE,TRUE,48.84
+GD0047,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",3.4,Good,7.1,Sometimes,Sometimes,Low,"Below Average",1.19,7,7.8,1,FALSE,FALSE,23.33
+GD0048,Female,Multi-platform,25-30,FPS,"Call of Duty",6.1,Fair,6.7,Often,Daily,Moderate,Good,,5,7.7,2,TRUE,TRUE,110.74
+GD0049,Female,Multi-platform,13-18,RPG,Skyrim,5.9,Poor,5.4,Often,Never,Low,Average,2.11,,6,3,FALSE,FALSE,125.89
+GD0050,Female,PC,13-18,MMO,"World of Warcraft",5.1,Fair,6.5,Never,Sometimes,Low,"Below Average",3.87,,6.2,2,FALSE,FALSE,39.9
+GD0051,Male,PC,19-24,Strategy,"Age of Empires",7,Poor,4.7,Sometimes,Often,Moderate,Poor,,5,8,4,FALSE,FALSE,132.68
+GD0052,Male,Multi-platform,19-24,RPG,Skyrim,3.5,Good,7.8,Never,Rarely,Low,Good,1.39,3,9.8,2,FALSE,FALSE,40.35
+GD0053,Male,Multi-platform,19-24,FPS,"Call of Duty",11.4,Poor,4.3,Never,Never,High,Failing,2.02,5,5,6,TRUE,TRUE,433.8
+GD0054,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",0.5,Good,7.2,Sometimes,Rarely,Low,Excellent,3.39,4,10,1,FALSE,FALSE,9.04
+GD0055,Female,PC,19-24,FPS,CS:GO,5.8,Fair,6.7,Rarely,Sometimes,Low,Average,2.3,3,6.4,3,TRUE,FALSE,114.52
+GD0056,Male,Mobile,19-24,MOBA,"Mobile Legends",1.7,Good,8.1,Sometimes,Daily,Low,Excellent,1.41,9,9.3,1,FALSE,FALSE,47.53
+GD0057,Male,PC,19-24,Strategy,"StarCraft II",6,Fair,6.9,Always,Sometimes,Moderate,Good,,10,8.2,4,FALSE,TRUE,133.31
+GD0058,Male,Multi-platform,25-30,RPG,"Elden Ring",7.1,Poor,5.2,Sometimes,Sometimes,Moderate,Average,,1,7.2,4,FALSE,TRUE,136.21
+GD0059,Male,Multi-platform,19-24,"Battle Royale",Warzone,0.6,Good,7.2,Rarely,Sometimes,Low,Good,,4,8.8,1,FALSE,FALSE,39.51
+GD0060,Female,Mobile,31+,"Mobile Games","PUBG Mobile",7.2,Poor,4.2,Rarely,Often,Low,"Below Average",,9,7.6,5,TRUE,TRUE,96.57
+GD0061,Female,Multi-platform,19-24,FPS,"Call of Duty",5.6,Poor,5.3,Never,Sometimes,Moderate,Average,2.08,4,7.7,3,FALSE,TRUE,144.26
+GD0062,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",8.9,Poor,4.2,Sometimes,Never,Severe,"Below Average",3.91,,3.6,5,TRUE,TRUE,417.13
+GD0063,Other,Mobile,13-18,MOBA,"Mobile Legends",12.4,Poor,4.7,Often,Daily,High,"Below Average",2,,4.3,7,TRUE,TRUE,359.05
+GD0064,Female,PC,19-24,FPS,Valorant,6.6,"Very Poor",3.3,Often,Sometimes,High,"Below Average",3.09,10,8,4,TRUE,TRUE,144.41
+GD0065,Female,PC,25-30,Strategy,"StarCraft II",4.9,Fair,5.7,Often,Rarely,Low,Poor,,5,8.8,3,TRUE,FALSE,60.06
+GD0066,Male,Mobile,13-18,"Mobile Games","Candy Crush",4.4,Fair,6.6,Often,Daily,Low,"Below Average",1.4,,8.3,1,FALSE,FALSE,45.33
+GD0067,Female,Multi-platform,19-24,RPG,Skyrim,4.7,Poor,5.1,Sometimes,Never,Low,Average,,8,7,4,TRUE,FALSE,108
+GD0068,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",7,"Very Poor",4,Sometimes,Daily,Moderate,Poor,3.54,2,5.8,5,TRUE,TRUE,119.22
+GD0069,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",6.2,Fair,5.8,Never,Rarely,Moderate,Average,3.51,2,6.7,5,TRUE,TRUE,42.1
+GD0070,Female,PC,13-18,MMO,"World of Warcraft",15.1,Poor,4.8,Often,Often,High,"Below Average",3.05,,4.2,10,TRUE,TRUE,209.75
+GD0071,Male,Multi-platform,25-30,MMO,"Elder Scrolls Online",4.8,Fair,6.8,Never,Never,Low,Average,,7,5.8,2,FALSE,FALSE,132.26
+GD0072,Male,Mobile,19-24,"Mobile Games","Clash of Clans",2.6,Good,8.8,Never,Sometimes,Low,Good,,5,8.9,1,FALSE,FALSE,7.76
+GD0073,Female,Multi-platform,13-18,"Mobile Games","Genshin Impact",4,Fair,5.8,Sometimes,Sometimes,Low,Good,3.1,,6.3,2,FALSE,FALSE,18.88
+GD0074,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5,Fair,6.9,Sometimes,Never,Low,Excellent,1.55,9,7.7,4,FALSE,FALSE,85.67
+GD0075,Male,Multi-platform,19-24,"Battle Royale",PUBG,3.5,Good,8,Often,Rarely,Low,Average,1.87,4,6.7,2,FALSE,FALSE,39.95
+GD0076,Male,Multi-platform,31+,"Battle Royale","Apex Legends",5.2,Fair,6.9,Often,Daily,Low,Good,,3,9,6,TRUE,FALSE,73.02
+GD0077,Male,Multi-platform,13-18,Strategy,"Civilization VI",9.4,"Very Poor",3.1,Often,Never,Severe,Poor,1.01,,4.7,6,TRUE,TRUE,364.97
+GD0078,Female,PC,13-18,MOBA,"League of Legends",5.7,Fair,6.8,Sometimes,Sometimes,Low,Average,2.48,,8.4,4,TRUE,TRUE,136.3
+GD0079,Other,PC,19-24,MOBA,"League of Legends",8.3,Poor,5.5,Always,Never,Moderate,Average,1.17,8,4,7,FALSE,FALSE,82.29
+GD0080,Female,Multi-platform,13-18,"Mobile Games","Genshin Impact",9,Fair,5.8,Never,Often,Severe,Poor,2.32,,3.8,5,TRUE,TRUE,192.38
+GD0081,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",7.2,"Very Poor",3.6,Rarely,Daily,Moderate,Poor,1.98,1,6.5,4,TRUE,FALSE,32.86
+GD0082,Female,PC,13-18,MMO,"World of Warcraft",10.8,Poor,5,Rarely,Often,Severe,Poor,3.56,,2.9,7,TRUE,TRUE,462.43
+GD0083,Male,Multi-platform,13-18,RPG,"Elden Ring",9.3,Poor,5.5,Rarely,Sometimes,High,Poor,1.42,,6.3,6,FALSE,TRUE,404.23
+GD0084,Male,Multi-platform,19-24,RPG,"Elden Ring",6.4,Fair,6.8,Rarely,Never,Moderate,Average,2.95,8,7.6,5,FALSE,TRUE,91.02
+GD0085,Male,Mobile,25-30,"Mobile Games","PUBG Mobile",1.1,Good,7.6,Sometimes,Often,Low,Good,,5,9.5,1,FALSE,FALSE,24.99
+GD0086,Male,Multi-platform,19-24,"Battle Royale",Warzone,3,Good,8.8,Rarely,Rarely,Low,Good,2.4,5,7.1,2,FALSE,FALSE,34.92
+GD0087,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",7.5,Poor,4.8,Never,Often,High,Poor,1.29,,7.9,5,TRUE,FALSE,123.8
+GD0088,Male,Multi-platform,13-18,FPS,"Call of Duty",6.1,Fair,6.7,Often,Sometimes,Moderate,Average,3.06,,5.6,4,TRUE,TRUE,71.69
+GD0089,Female,PC,13-18,Strategy,"StarCraft II",5.9,Fair,6.5,Rarely,Never,Moderate,Average,2.46,,7.4,4,TRUE,FALSE,96.37
+GD0090,Female,Mobile,19-24,"Mobile Games","Candy Crush",8.1,"Very Poor",3.1,Sometimes,Sometimes,Moderate,Failing,3.21,6,6.8,5,TRUE,FALSE,67.48
+GD0091,Male,PC,19-24,MMO,"World of Warcraft",10.3,Fair,5.8,Rarely,Sometimes,Moderate,"Below Average",1.5,1,3.6,8,FALSE,TRUE,499.27
+GD0092,Female,Multi-platform,13-18,Strategy,"Civilization VI",8.9,Fair,5.9,Never,Never,High,Good,3.26,,5.3,5,TRUE,TRUE,254.42
+GD0093,Female,Mobile,25-30,"Mobile Games","Clash of Clans",5.9,Fair,6.1,Always,Sometimes,Moderate,Good,,10,5.2,5,FALSE,FALSE,83.67
+GD0094,Female,PC,19-24,Strategy,"StarCraft II",4.9,Fair,6.1,Always,Rarely,Low,Failing,3.53,5,9.1,2,TRUE,FALSE,56.37
+GD0095,Male,Multi-platform,19-24,RPG,Skyrim,1.7,Good,7.3,Rarely,Never,Low,Average,1.41,7,10.8,1,FALSE,FALSE,24.1
+GD0096,Male,Mobile,19-24,"Mobile Games","Candy Crush",7,Poor,4.9,Often,Daily,High,Failing,3.92,4,4.6,6,TRUE,TRUE,115.12
+GD0097,Male,Mobile,19-24,MOBA,"Mobile Legends",3.2,Good,7.3,Often,Rarely,Low,Average,2.05,9,9.1,2,FALSE,FALSE,15.77
+GD0098,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",10.4,Fair,5.6,Often,Rarely,Severe,Poor,,10,3.7,5,FALSE,FALSE,197.03
+GD0099,Male,Mobile,31+,MOBA,"Mobile Legends",5.1,Fair,6.5,Often,Often,Low,Average,,1,7.4,2,TRUE,FALSE,72.27
+GD0100,Female,Mobile,25-30,"Mobile Games","Candy Crush",6.3,Fair,6.3,Often,Daily,Low,Average,,10,8,2,TRUE,FALSE,21.12
+GD0101,Male,PC,19-24,FPS,Valorant,5.4,Fair,6.6,Rarely,Rarely,Low,Failing,3.51,4,5.7,1,TRUE,FALSE,33.12
+GD0102,Male,Multi-platform,19-24,RPG,"Elden Ring",6.1,Poor,5.5,Always,Rarely,Low,Average,3.22,7,8.1,5,TRUE,FALSE,110.19
+GD0103,Female,Multi-platform,19-24,MMO,"Elder Scrolls Online",7.1,Poor,5,Rarely,Sometimes,High,Good,2.66,1,5.3,4,FALSE,TRUE,112.86
+GD0104,Female,Multi-platform,19-24,RPG,"Elden Ring",8,"Very Poor",3.4,Never,Often,High,Poor,2.53,6,6.6,4,TRUE,TRUE,26.81
+GD0105,Female,Multi-platform,19-24,"Battle Royale",Warzone,4.8,Fair,6.6,Often,Rarely,Low,"Below Average",1.08,5,6.1,2,FALSE,FALSE,48.19
+GD0106,Female,Multi-platform,13-18,"Battle Royale",Warzone,9.8,Poor,5,Always,Daily,Severe,Poor,3.66,,6.8,7,FALSE,FALSE,114.88
+GD0107,Female,PC,13-18,FPS,Valorant,2.9,Good,7.9,Never,Daily,Low,Excellent,1.37,,9.4,3,FALSE,FALSE,24.6
+GD0108,Female,Multi-platform,19-24,"Battle Royale",PUBG,6.8,"Very Poor",3.7,Never,Rarely,Moderate,Failing,2.96,7,6.4,4,TRUE,TRUE,127
+GD0109,Male,Multi-platform,19-24,"Battle Royale",Fortnite,4.6,Poor,5.3,Sometimes,Daily,Low,Excellent,2.21,4,6.8,2,FALSE,FALSE,85.23
+GD0110,Male,Multi-platform,25-30,RPG,"Cyberpunk 2077",12,Poor,4.4,Never,Sometimes,Severe,Failing,,2,5.2,9,TRUE,TRUE,326.96
+GD0111,Female,Multi-platform,13-18,"Battle Royale",Fortnite,5.4,Fair,6.7,Rarely,Rarely,Low,"Below Average",2.85,,7.9,3,TRUE,FALSE,147.65
+GD0112,Female,PC,31+,MOBA,"League of Legends",5.5,Fair,6.8,Rarely,Never,Moderate,Good,,8,6.4,4,TRUE,TRUE,126.15
+GD0113,Male,PC,13-18,Strategy,"Age of Empires",3.6,Fair,6.9,Often,Often,Low,"Below Average",3.82,,9.9,1,FALSE,FALSE,40.4
+GD0114,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",9.2,Fair,5.8,Often,Daily,High,"Below Average",2.98,6,7,6,TRUE,TRUE,177.45
+GD0115,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",3.2,Good,8.4,Rarely,Daily,Low,Excellent,,9,10,3,FALSE,FALSE,49.01
+GD0116,Female,PC,19-24,MMO,"World of Warcraft",8.4,Poor,4.2,Always,Never,High,Failing,2.57,3,5.6,6,TRUE,FALSE,82.28
+GD0117,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",13,Poor,5.4,Sometimes,Sometimes,Severe,"Below Average",2.6,,4,9,FALSE,TRUE,224.87
+GD0118,Male,Multi-platform,13-18,RPG,Skyrim,5.7,Poor,5.5,Never,Daily,Moderate,"Below Average",1.32,,7.7,4,TRUE,TRUE,61.16
+GD0119,Other,PC,13-18,MMO,"World of Warcraft",0.9,Good,8,Sometimes,Sometimes,Low,Good,1.75,,10.8,1,FALSE,FALSE,35.37
+GD0120,Male,Mobile,19-24,"Mobile Games","Clash of Clans",4.8,Fair,6.3,Sometimes,Often,Low,Average,2.86,6,6.9,4,TRUE,FALSE,29.59
+GD0121,Male,Multi-platform,19-24,"Battle Royale",Fortnite,11.8,"Very Poor",3.8,Often,Sometimes,High,Poor,,6,5.4,8,TRUE,TRUE,391.88
+GD0122,Male,Multi-platform,13-18,FPS,Overwatch,6,Fair,6.7,Sometimes,Often,Moderate,Excellent,3.71,,7.6,5,TRUE,TRUE,147.47
+GD0123,Male,Mobile,13-18,MOBA,"Mobile Legends",2.6,Good,7.3,Often,Never,Low,Good,1.1,,7.8,2,FALSE,FALSE,37.3
+GD0124,Female,Multi-platform,13-18,RPG,Skyrim,7.7,Fair,5.6,Never,Never,High,Poor,1.96,,6.5,5,TRUE,TRUE,25.58
+GD0125,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",10,Poor,5.5,Always,Sometimes,Severe,Poor,2.19,4,3.6,6,FALSE,FALSE,358.72
+GD0126,Male,Mobile,19-24,"Mobile Games","Clash of Clans",5,Fair,6.7,Always,Sometimes,Low,Good,1.11,10,8.9,3,TRUE,FALSE,143.86
+GD0127,Male,Multi-platform,19-24,"Battle Royale",Warzone,5.6,Poor,5.1,Rarely,Daily,Low,"Below Average",1.69,4,8.3,5,FALSE,FALSE,44.63
+GD0128,Female,PC,19-24,MMO,"World of Warcraft",4.3,Fair,6.7,Sometimes,Never,Low,Average,3.31,8,9.6,2,FALSE,FALSE,48
+GD0129,Male,PC,31+,MOBA,"League of Legends",3.1,Good,7.6,Always,Daily,Low,"Below Average",,9,7.8,3,FALSE,FALSE,27.92
+GD0130,Female,Mobile,13-18,"Mobile Games","Clash of Clans",3.6,Fair,6.3,Never,Often,Low,"Below Average",1.74,,6,2,FALSE,FALSE,13.53
+GD0131,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",6.9,Poor,4.9,Often,Daily,Low,Good,3.11,10,6.9,4,TRUE,TRUE,22.1
+GD0132,Male,Mobile,13-18,"Mobile Games","Clash of Clans",5.2,Fair,5.7,Sometimes,Never,Low,Average,1.03,,9.1,2,TRUE,FALSE,20.36
+GD0133,Male,Multi-platform,13-18,"Battle Royale",PUBG,4,Poor,5.1,Always,Daily,Low,Average,1.42,,6.4,2,FALSE,FALSE,27.46
+GD0134,Male,Multi-platform,25-30,RPG,"Elden Ring",8.3,Poor,5.4,Often,Never,High,Average,,4,7.6,5,TRUE,FALSE,49.13
+GD0135,Female,Multi-platform,13-18,Strategy,"Civilization VI",3.6,Poor,5.5,Always,Daily,Low,Good,4,,9.8,3,FALSE,FALSE,20.78
+GD0136,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",7.9,Poor,4.6,Often,Rarely,High,Average,,2,5.3,5,TRUE,TRUE,30.7
+GD0137,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",8,"Very Poor",3.4,Often,Often,Severe,"Below Average",2.1,4,4.1,7,TRUE,FALSE,104.41
+GD0138,Male,Mobile,19-24,"Mobile Games","Clash of Clans",9.3,Poor,4.8,Always,Sometimes,Severe,"Below Average",3.59,2,4,7,TRUE,TRUE,113.26
+GD0139,Male,Multi-platform,19-24,RPG,"Elden Ring",10.2,Poor,5.1,Never,Daily,Moderate,Poor,3.47,7,3,7,FALSE,TRUE,314.14
+GD0140,Male,PC,19-24,MOBA,"Dota 2",7.2,Poor,4.6,Sometimes,Never,High,Poor,,1,7.5,5,TRUE,TRUE,83.77
+GD0141,Male,PC,13-18,MOBA,"League of Legends",7,Poor,4.7,Never,Never,Moderate,Average,1.91,,6.3,4,TRUE,TRUE,80.95
+GD0142,Male,Mobile,19-24,"Mobile Games","Clash of Clans",8.2,"Very Poor",3.7,Often,Often,Moderate,Poor,1.78,8,4,4,TRUE,TRUE,52.5
+GD0143,Male,PC,19-24,FPS,CS:GO,4.4,Poor,5.2,Often,Never,Low,Good,1.85,7,9.3,3,FALSE,FALSE,21.43
+GD0144,Male,PC,19-24,MOBA,"League of Legends",5.8,Fair,6,Sometimes,Daily,Moderate,Good,1.08,5,6,5,FALSE,TRUE,111.06
+GD0145,Male,Multi-platform,19-24,"Battle Royale",PUBG,9.7,Poor,4.5,Never,Sometimes,High,"Below Average",3.37,8,3.7,8,FALSE,FALSE,276.24
+GD0146,Other,PC,13-18,MOBA,"League of Legends",3.2,Good,7.2,Never,Often,Low,Average,2.58,,7.6,1,FALSE,FALSE,39.13
+GD0147,Male,Multi-platform,13-18,Strategy,"Civilization VI",8.9,"Very Poor",3.5,Always,Never,High,Good,1.34,,4.9,5,TRUE,TRUE,342.1
+GD0148,Female,Multi-platform,25-30,MMO,"Final Fantasy XIV",6.6,Poor,5.2,Rarely,Never,Moderate,Poor,,7,6.5,5,TRUE,TRUE,11.24
+GD0149,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",3.9,Fair,6.5,Never,Often,Low,"Below Average",2.73,,9.4,3,FALSE,FALSE,23.79
+GD0150,Male,PC,19-24,Strategy,"StarCraft II",10.4,Poor,5.1,Often,Sometimes,Severe,Failing,1.76,3,5.6,8,FALSE,TRUE,412.09
+GD0151,Male,PC,19-24,MOBA,"League of Legends",5.3,Fair,6.4,Rarely,Never,Low,Average,1.43,8,7.9,4,TRUE,FALSE,39.82
+GD0152,Male,PC,13-18,MOBA,"League of Legends",4.8,Poor,5.3,Never,Daily,Low,Excellent,1.61,,7.5,4,TRUE,FALSE,69.97
+GD0153,Female,Mobile,13-18,MOBA,"Mobile Legends",6.4,Poor,5.4,Rarely,Often,Low,"Below Average",3.34,,8.3,3,FALSE,FALSE,34.14
+GD0154,Male,Multi-platform,13-18,RPG,"Elden Ring",10.6,Poor,4.1,Often,Often,Severe,Poor,1.06,,6.2,8,FALSE,TRUE,247.77
+GD0155,Male,Multi-platform,13-18,FPS,"Call of Duty",6.7,Poor,5.3,Often,Never,Low,Average,1.21,,8.1,4,TRUE,TRUE,34.13
+GD0156,Male,Multi-platform,19-24,"Battle Royale",Fortnite,6.9,Poor,4.7,Always,Sometimes,Moderate,"Below Average",3.29,2,8,4,FALSE,FALSE,59.03
+GD0157,Female,Multi-platform,13-18,FPS,"Call of Duty",2.2,Good,7.7,Sometimes,Sometimes,Low,Excellent,1.45,,8.6,1,FALSE,FALSE,31.73
+GD0158,Male,Mobile,19-24,MOBA,"Mobile Legends",9,Poor,5.3,Sometimes,Never,High,Poor,1.11,2,7.2,5,FALSE,TRUE,168.77
+GD0159,Other,Multi-platform,25-30,RPG,"Cyberpunk 2077",4.7,Fair,7,Never,Never,Low,Average,,1,7.4,4,TRUE,FALSE,110.14
+GD0160,Male,Mobile,13-18,MOBA,"Mobile Legends",10.4,Poor,4.7,Never,Daily,Severe,Poor,3.55,,6.6,6,TRUE,TRUE,326.87
+GD0161,Male,PC,19-24,MOBA,"Dota 2",12.2,Fair,5.9,Often,Sometimes,Severe,"Below Average",3.72,10,4.7,7,FALSE,TRUE,473.21
+GD0162,Male,PC,25-30,Strategy,"StarCraft II",4.3,Poor,5.3,Rarely,Daily,Low,Good,,5,7.9,2,FALSE,FALSE,44.35
+GD0163,Female,Mobile,19-24,MOBA,"Mobile Legends",6.3,Poor,5.5,Sometimes,Never,Low,"Below Average",3.98,4,9,2,TRUE,TRUE,53.06
+GD0164,Male,Multi-platform,13-18,Strategy,"Civilization VI",7.7,Fair,5.6,Sometimes,Daily,High,"Below Average",3.22,,4.8,7,TRUE,TRUE,110.52
+GD0165,Female,Multi-platform,19-24,RPG,"Elden Ring",8.4,Fair,5.7,Often,Rarely,High,Failing,3.14,9,4.8,5,TRUE,FALSE,128.87
+GD0166,Male,Multi-platform,13-18,Strategy,"Civilization VI",7.2,"Very Poor",3.9,Often,Never,Moderate,"Below Average",3.97,,4.6,6,TRUE,TRUE,130.82
+GD0167,Male,Multi-platform,19-24,RPG,Skyrim,5.1,Fair,5.8,Never,Never,Low,Good,2.72,10,7.3,3,FALSE,FALSE,20.68
+GD0168,Male,PC,25-30,MOBA,"Dota 2",5.8,Poor,5.3,Rarely,Rarely,Moderate,"Below Average",,3,6.6,5,TRUE,FALSE,55.18
+GD0169,Male,Multi-platform,19-24,FPS,Overwatch,7.6,Fair,5.6,Often,Rarely,High,Poor,1.5,9,4.7,6,TRUE,TRUE,38.69
+GD0170,Male,Multi-platform,19-24,FPS,"Call of Duty",2.6,Good,8.3,Always,Never,Low,Good,,4,8.8,1,FALSE,FALSE,6.45
+GD0171,Male,Multi-platform,19-24,"Battle Royale",Warzone,1.3,Good,8.4,Rarely,Often,Low,Good,1.44,5,9.6,1,FALSE,FALSE,15.07
+GD0172,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",6.2,Fair,5.9,Often,Rarely,Moderate,Average,,10,6.5,6,FALSE,FALSE,135.88
+GD0173,Male,Multi-platform,19-24,RPG,"Elden Ring",9.1,"Very Poor",3.2,Never,Rarely,Severe,Average,2.92,1,4.9,7,TRUE,TRUE,396.01
+GD0174,Male,PC,19-24,MOBA,"Dota 2",10.1,"Very Poor",3.4,Sometimes,Sometimes,Severe,"Below Average",1.1,2,4.2,8,TRUE,FALSE,358.37
+GD0175,Male,PC,25-30,FPS,Valorant,7.9,Poor,5.1,Sometimes,Rarely,Moderate,Average,,6,7.4,5,TRUE,FALSE,53.96
+GD0176,Female,Multi-platform,19-24,Strategy,"Civilization VI",2.9,Good,8,Always,Rarely,Low,Excellent,3.29,10,8.8,1,FALSE,FALSE,35.81
+GD0177,Male,PC,19-24,Strategy,"StarCraft II",4.6,Fair,5.9,Rarely,Never,Low,"Below Average",2.1,6,8.5,3,FALSE,FALSE,10.06
+GD0178,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.7,Fair,5.7,Always,Never,Moderate,Average,3.84,4,7.3,3,FALSE,TRUE,123.33
+GD0179,Female,PC,19-24,MOBA,"League of Legends",8.2,Poor,4.2,Rarely,Rarely,Moderate,Poor,2.27,6,4.2,5,TRUE,TRUE,77.94
+GD0180,Female,PC,19-24,MOBA,"League of Legends",3.1,Good,7.2,Sometimes,Sometimes,Low,Excellent,3.51,1,9.1,1,FALSE,FALSE,15.06
+GD0181,Female,PC,19-24,Strategy,"Age of Empires",7.3,"Very Poor",3,Never,Sometimes,Moderate,Excellent,2.15,5,7.9,4,TRUE,TRUE,31.57
+GD0182,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",10.9,"Very Poor",3.8,Often,Daily,Severe,"Below Average",3.21,,3.7,6,TRUE,TRUE,232.94
+GD0183,Male,Multi-platform,25-30,RPG,Skyrim,11,"Very Poor",3.3,Sometimes,Daily,Severe,Average,,7,5.5,5,TRUE,FALSE,207.35
+GD0184,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",11,"Very Poor",3.7,Often,Never,High,Poor,3.52,8,6.3,8,FALSE,FALSE,484.09
+GD0185,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",10.5,Poor,4.5,Often,Often,Severe,Poor,,4,3.3,6,FALSE,TRUE,240.74
+GD0186,Female,PC,19-24,Strategy,"Age of Empires",7,Poor,4.1,Rarely,Sometimes,Moderate,"Below Average",1.42,4,8.4,4,TRUE,FALSE,45.66
+GD0187,Female,Multi-platform,13-18,RPG,"Elden Ring",2,Good,7.6,Rarely,Daily,Low,Excellent,1.23,,9.9,3,FALSE,FALSE,23.53
+GD0188,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",11.2,"Very Poor",4,Never,Daily,Severe,Poor,,10,5,8,TRUE,FALSE,246.83
+GD0189,Male,Multi-platform,19-24,FPS,"Call of Duty",4.4,Fair,6.6,Rarely,Rarely,Low,"Below Average",3.23,9,9,3,FALSE,FALSE,45.31
+GD0190,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",6.3,Poor,5,Rarely,Never,Low,Average,3.5,,7.6,3,TRUE,TRUE,41.6
+GD0191,Male,PC,13-18,FPS,Valorant,4.2,Fair,6.1,Never,Rarely,Low,Average,1.64,,7.2,1,FALSE,FALSE,6.99
+GD0192,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",3.9,Fair,6.3,Never,Often,Low,Good,3.5,9,7.9,2,FALSE,FALSE,36.21
+GD0193,Female,PC,13-18,Strategy,"StarCraft II",1.5,Fair,7,Never,Daily,Low,Average,1.24,,11.5,1,FALSE,FALSE,32
+GD0194,Male,Multi-platform,19-24,Strategy,"Civilization VI",8.8,Poor,4.1,Sometimes,Never,Severe,Good,,6,4.4,7,TRUE,TRUE,67.73
+GD0195,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",3.7,Fair,5.8,Never,Never,Low,Poor,2.84,8,8,3,FALSE,FALSE,24.63
+GD0196,Male,Mobile,19-24,MOBA,"Mobile Legends",5.2,Fair,6.5,Never,Daily,Low,Good,1.85,8,8.8,1,TRUE,FALSE,89.91
+GD0197,Male,Multi-platform,19-24,FPS,Overwatch,6.6,Poor,5.1,Often,Never,High,Failing,1.77,5,7.4,6,TRUE,TRUE,56.6
+GD0198,Female,PC,19-24,Strategy,"StarCraft II",6.2,Fair,5.9,Always,Rarely,Low,Average,,4,7.8,2,FALSE,TRUE,129.73
+GD0199,Male,PC,13-18,MOBA,"Dota 2",3.6,Fair,6.1,Always,Daily,Low,"Below Average",2.02,,7.1,3,FALSE,FALSE,8.29
+GD0200,Female,Mobile,19-24,MOBA,"Mobile Legends",6,Fair,6.7,Always,Often,Low,Excellent,2.41,3,6.1,3,FALSE,FALSE,108.18
+GD0201,Male,Multi-platform,25-30,"Battle Royale",Warzone,4.3,Poor,5.5,Never,Rarely,Low,"Below Average",,2,8.8,3,FALSE,FALSE,4.81
+GD0202,Male,Multi-platform,13-18,RPG,"Elden Ring",8.7,"Very Poor",3.6,Sometimes,Rarely,High,"Below Average",1.3,,6.9,7,TRUE,TRUE,178.36
+GD0203,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",12,"Very Poor",3.8,Sometimes,Rarely,Moderate,Average,1.31,5,2.8,9,TRUE,TRUE,389.7
+GD0204,Male,PC,19-24,MMO,"World of Warcraft",5.4,Poor,5.5,Often,Rarely,Low,"Below Average",1.07,1,6.4,3,FALSE,FALSE,39.77
+GD0205,Female,PC,19-24,Strategy,"StarCraft II",4,Fair,6.9,Often,Daily,Low,Average,1.85,1,6.6,2,FALSE,FALSE,46.13
+GD0206,Female,PC,13-18,MOBA,"Dota 2",4.7,Poor,5.5,Sometimes,Sometimes,Low,Good,3.44,,7.3,3,TRUE,FALSE,87.51
+GD0207,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",2.7,Good,8.2,Often,Sometimes,Low,Good,3.69,3,6.8,1,FALSE,FALSE,12.31
+GD0208,Male,Multi-platform,19-24,Strategy,"Civilization VI",7.2,Poor,4.3,Always,Sometimes,High,Failing,2.58,8,8,5,FALSE,TRUE,123.4
+GD0209,Male,PC,25-30,Strategy,"StarCraft II",3.9,Fair,6.9,Always,Never,Low,"Below Average",,6,6.1,1,FALSE,FALSE,18.05
+GD0210,Other,Mobile,19-24,"Mobile Games","Clash of Clans",12.9,Poor,5.5,Rarely,Daily,High,Failing,,10,4.9,7,TRUE,FALSE,189.43
+GD0211,Male,PC,19-24,MOBA,"Dota 2",5.1,Fair,6.7,Always,Never,Low,Good,1.28,1,9.2,4,TRUE,FALSE,47.43
+GD0212,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",8.8,Fair,5.6,Rarely,Never,Severe,"Below Average",3.2,10,5.9,5,TRUE,TRUE,462.75
+GD0213,Male,PC,19-24,Strategy,"StarCraft II",5.2,Fair,6.3,Rarely,Often,Low,Good,3.7,2,7.9,2,TRUE,FALSE,60.25
+GD0214,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",6.2,Poor,5.3,Never,Never,Low,Good,2.19,3,6.7,3,TRUE,TRUE,109.33
+GD0215,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",4.3,Poor,5.3,Sometimes,Sometimes,Low,Average,3.09,3,6.3,3,FALSE,FALSE,12.63
+GD0216,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",9.3,Poor,5.2,Sometimes,Rarely,High,Poor,2.92,8,5.9,5,TRUE,TRUE,371.68
+GD0217,Male,PC,19-24,Strategy,"StarCraft II",11.3,Fair,5.9,Rarely,Rarely,High,Poor,2.86,2,2.6,6,TRUE,TRUE,485.6
+GD0218,Male,Multi-platform,19-24,FPS,Overwatch,11,Poor,4.3,Rarely,Often,Severe,Poor,3.23,4,3.5,10,FALSE,TRUE,96.98
+GD0219,Other,Mobile,13-18,"Mobile Games","PUBG Mobile",7.1,Poor,5.4,Sometimes,Rarely,Low,Poor,2.41,,4.8,3,TRUE,TRUE,104.49
+GD0220,Male,Multi-platform,13-18,RPG,Skyrim,4.6,Fair,5.7,Always,Sometimes,Low,Average,3.24,,7.2,3,TRUE,FALSE,17.42
+GD0221,Male,PC,19-24,MOBA,"Dota 2",3.2,Good,7.2,Often,Often,Low,Good,3.65,9,9.4,3,FALSE,FALSE,17.98
+GD0222,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",5.1,Fair,6.6,Sometimes,Sometimes,Low,Average,1.35,,8,3,TRUE,FALSE,130.26
+GD0223,Male,PC,13-18,MOBA,"Dota 2",2.7,Good,8.6,Rarely,Rarely,Low,Excellent,1.44,,9.1,1,FALSE,FALSE,43.38
+GD0224,Female,Multi-platform,19-24,"Battle Royale",Warzone,2.7,Good,7.1,Rarely,Often,Low,Good,3.38,2,6.6,2,FALSE,FALSE,37.91
+GD0225,Male,PC,13-18,Strategy,"StarCraft II",4.1,Fair,5.8,Never,Never,Low,Excellent,3.01,,8.9,3,FALSE,FALSE,34.75
+GD0226,Female,PC,19-24,Strategy,"Age of Empires",0.5,Good,8.7,Never,Daily,Low,Good,3.88,3,10.4,1,FALSE,FALSE,22.38
+GD0227,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",7.1,Poor,4.3,Always,Often,Moderate,"Below Average",2.45,4,8.5,5,FALSE,TRUE,79
+GD0228,Female,PC,19-24,MOBA,"League of Legends",7.8,Poor,4.2,Sometimes,Often,Low,Poor,2.89,6,4.7,4,FALSE,FALSE,135.38
+GD0229,Female,Mobile,19-24,MOBA,"Mobile Legends",3.5,Poor,5,Never,Often,Low,Average,3.22,3,10,2,FALSE,FALSE,48.25
+GD0230,Male,Multi-platform,19-24,"Battle Royale",Fortnite,8.7,"Very Poor",3.3,Rarely,Rarely,High,"Below Average",3.47,2,6.4,5,FALSE,FALSE,362.26
+GD0231,Male,Multi-platform,19-24,"Battle Royale",PUBG,8.2,Fair,5.9,Often,Sometimes,High,Poor,2.47,7,5.4,5,FALSE,TRUE,18.61
+GD0232,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",8.7,Poor,4.2,Always,Daily,High,Poor,1.97,10,4.8,6,FALSE,FALSE,428.62
+GD0233,Male,PC,25-30,MOBA,"Dota 2",6,Fair,5.7,Often,Daily,Low,"Below Average",,3,5.3,5,TRUE,FALSE,74.07
+GD0234,Female,Multi-platform,13-18,FPS,Overwatch,5.9,Poor,5.2,Always,Often,Moderate,Average,2.37,,6.2,3,TRUE,TRUE,25.16
+GD0235,Male,Mobile,19-24,"Mobile Games","Clash of Clans",5.2,Fair,5.9,Sometimes,Rarely,Low,Excellent,,2,8.4,2,TRUE,FALSE,103.9
+GD0236,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.5,Poor,5.3,Rarely,Often,Moderate,Excellent,2.35,10,8.7,3,FALSE,FALSE,121.44
+GD0237,Male,PC,13-18,MOBA,"League of Legends",7.5,"Very Poor",3.4,Rarely,Never,Moderate,"Below Average",2.62,,7.7,5,TRUE,FALSE,145.06
+GD0238,Female,Multi-platform,25-30,MMO,"Elder Scrolls Online",8.8,Poor,4.9,Often,Rarely,Severe,Average,,9,5.9,6,FALSE,TRUE,430.82
+GD0239,Female,Multi-platform,19-24,RPG,"Elden Ring",5.7,Poor,5.5,Sometimes,Daily,Moderate,Average,2.25,3,8.7,5,FALSE,TRUE,60.72
+GD0240,Female,Multi-platform,19-24,FPS,"Call of Duty",10.9,Poor,5.2,Never,Never,Severe,Poor,3.74,9,5.2,8,TRUE,TRUE,247.59
+GD0241,Male,Multi-platform,13-18,FPS,Overwatch,2.3,Good,8.7,Often,Often,Low,Good,1.39,,7,4,FALSE,FALSE,35.91
+GD0242,Male,PC,19-24,FPS,Valorant,0.7,Good,8.3,Often,Daily,Low,Average,,5,9.5,1,FALSE,FALSE,6.93
+GD0243,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",6.6,"Very Poor",3.8,Often,Sometimes,High,Poor,3.02,3,8.1,3,TRUE,TRUE,50.22
+GD0244,Female,PC,19-24,FPS,CS:GO,9.3,"Very Poor",3,Sometimes,Daily,High,Poor,3.51,5,6.1,5,TRUE,FALSE,195.86
+GD0245,Female,Multi-platform,31+,FPS,Overwatch,2.7,Good,8.7,Rarely,Rarely,Low,Good,,6,8.3,2,FALSE,FALSE,31.35
+GD0246,Male,PC,13-18,MMO,"World of Warcraft",1,Good,7.2,Often,Sometimes,Low,"Below Average",2.33,,10.1,1,FALSE,FALSE,35.39
+GD0247,Female,Multi-platform,19-24,Strategy,"Civilization VI",8.9,Poor,4.3,Rarely,Rarely,Severe,Poor,3.28,1,6.9,5,TRUE,TRUE,131.33
+GD0248,Male,PC,19-24,FPS,CS:GO,8.2,"Very Poor",3.2,Never,Rarely,Moderate,Failing,2.33,8,5.8,5,FALSE,TRUE,103.72
+GD0249,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",7.8,"Very Poor",3.7,Sometimes,Never,Severe,Poor,3.65,,5.8,6,FALSE,TRUE,89.41
+GD0250,Female,Multi-platform,25-30,"Battle Royale",PUBG,3.9,Fair,6.3,Always,Often,Low,Average,,2,8.2,2,FALSE,FALSE,17.57
+GD0251,Male,Multi-platform,13-18,"Battle Royale",PUBG,4.6,Fair,6,Sometimes,Often,Low,"Below Average",3.2,,6.9,3,TRUE,FALSE,37.4
+GD0252,Male,PC,19-24,MOBA,"Dota 2",8.2,Poor,5,Often,Sometimes,High,"Below Average",2.21,6,6.6,6,FALSE,TRUE,66.44
+GD0253,Female,Mobile,13-18,"Mobile Games","Candy Crush",7.3,Poor,4.7,Always,Never,High,Excellent,2.27,,6.4,5,TRUE,FALSE,81.74
+GD0254,Female,Mobile,19-24,MOBA,"Mobile Legends",2,Good,8.7,Sometimes,Daily,Low,Excellent,,10,10.6,1,FALSE,FALSE,20.74
+GD0255,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",5.5,Fair,6.1,Rarely,Daily,Moderate,Poor,1.05,1,7.7,3,FALSE,FALSE,149.11
+GD0256,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",4.4,Fair,6.3,Often,Rarely,Low,Average,,1,8.9,3,FALSE,FALSE,14.36
+GD0257,Male,Multi-platform,19-24,FPS,Overwatch,7.9,Poor,4.7,Often,Never,High,"Below Average",1.94,6,5.6,5,FALSE,TRUE,89.96
+GD0258,Male,PC,25-30,Strategy,"StarCraft II",14.2,"Very Poor",3.4,Rarely,Rarely,Moderate,Failing,,7,2.9,9,TRUE,TRUE,73.8
+GD0259,Male,PC,13-18,Strategy,"Age of Empires",15.1,Fair,5.7,Sometimes,Never,Moderate,Poor,3.72,,0.7,9,TRUE,TRUE,435.38
+GD0260,Female,Mobile,13-18,"Mobile Games","PUBG Mobile",5.2,Poor,5.5,Always,Never,Low,Average,3.1,,8.9,3,TRUE,FALSE,92.86
+GD0261,Male,PC,19-24,MOBA,"League of Legends",10.6,Poor,5.5,Always,Often,Severe,Failing,3.07,7,2.5,5,FALSE,FALSE,435.3
+GD0262,Male,Mobile,25-30,"Mobile Games","PUBG Mobile",3.7,Poor,5,Always,Daily,Low,Good,,1,6.2,3,FALSE,FALSE,18.82
+GD0263,Female,Mobile,25-30,"Mobile Games","Clash of Clans",8.2,Poor,4.1,Often,Daily,Low,Average,,9,7,5,FALSE,TRUE,134.24
+GD0264,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",10.3,"Very Poor",3.2,Often,Sometimes,High,"Below Average",1.53,9,4.3,7,FALSE,TRUE,266.35
+GD0265,Male,Multi-platform,13-18,RPG,"Elden Ring",9.3,Poor,4.8,Often,Rarely,Severe,Average,1.6,,6.6,8,TRUE,TRUE,366.44
+GD0266,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",11.8,"Very Poor",3.3,Rarely,Often,Severe,Poor,2.69,,4.8,10,TRUE,FALSE,270.57
+GD0267,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",9.8,Poor,4.5,Sometimes,Rarely,Severe,"Below Average",2.05,,6.2,8,TRUE,TRUE,418.07
+GD0268,Female,Mobile,19-24,"Mobile Games","Candy Crush",7.5,Poor,4.3,Rarely,Daily,High,Poor,1.41,2,7.5,4,TRUE,FALSE,83.3
+GD0269,Female,PC,31+,FPS,CS:GO,6.6,"Very Poor",3.7,Rarely,Often,High,Average,,3,5.2,6,TRUE,TRUE,77.47
+GD0270,Female,PC,19-24,FPS,Valorant,2.8,Good,8,Never,Daily,Low,"Below Average",1.18,4,6.5,3,FALSE,FALSE,13.4
+GD0271,Female,Multi-platform,25-30,"Battle Royale",Warzone,12.6,Poor,4.8,Sometimes,Rarely,Severe,Average,,2,4.5,7,TRUE,TRUE,438.13
+GD0272,Male,Mobile,25-30,MOBA,"Mobile Legends",5,Fair,6.9,Rarely,Sometimes,Low,Average,,9,7.1,4,TRUE,FALSE,106.3
+GD0273,Female,PC,25-30,FPS,CS:GO,5.4,Poor,5.3,Sometimes,Often,Low,Average,,7,9.5,3,FALSE,FALSE,106.06
+GD0274,Male,PC,13-18,FPS,CS:GO,5.3,Fair,6.5,Sometimes,Never,Low,Average,2.18,,6.1,1,TRUE,FALSE,122.21
+GD0275,Female,Multi-platform,25-30,RPG,"Cyberpunk 2077",9.4,Poor,4.8,Sometimes,Rarely,Moderate,"Below Average",,9,7.4,6,TRUE,TRUE,469.94
+GD0276,Male,Mobile,19-24,"Mobile Games","Clash of Clans",7.8,Poor,4.8,Always,Daily,Low,"Below Average",,10,5.2,5,TRUE,FALSE,93.67
+GD0277,Female,Multi-platform,19-24,RPG,Skyrim,5.1,Fair,6.7,Rarely,Often,Low,Average,2.54,2,5.7,3,TRUE,FALSE,24.45
+GD0278,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",1.9,Good,7.4,Sometimes,Never,Low,Good,1.14,8,7.4,2,FALSE,FALSE,23.64
+GD0279,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",8.8,Poor,5.4,Always,Often,Severe,"Below Average",2.6,,7,7,FALSE,TRUE,83.42
+GD0280,Male,Multi-platform,13-18,RPG,Skyrim,1.8,Good,8.5,Always,Often,Low,Good,2.01,,10.1,1,FALSE,FALSE,35
+GD0281,Female,Multi-platform,25-30,"Battle Royale",PUBG,2.9,Good,9,Always,Daily,Low,Good,,6,9.7,3,FALSE,FALSE,33.83
+GD0282,Male,Multi-platform,25-30,"Battle Royale",PUBG,3.5,Fair,6.5,Always,Rarely,Low,Average,,10,7.6,1,FALSE,FALSE,2.01
+GD0283,Male,PC,13-18,FPS,CS:GO,9.9,"Very Poor",3.7,Often,Never,High,"Below Average",3.99,,4.5,5,TRUE,FALSE,257
+GD0284,Male,Multi-platform,13-18,FPS,"Call of Duty",6.3,Poor,5,Rarely,Rarely,Moderate,"Below Average",3.66,,7.3,6,TRUE,FALSE,33.48
+GD0285,Male,PC,19-24,MOBA,"League of Legends",8,Poor,5.4,Sometimes,Often,Moderate,Poor,1.09,6,7.1,4,TRUE,TRUE,18.98
+GD0286,Male,Multi-platform,19-24,"Battle Royale",Warzone,3.8,Poor,5.4,Always,Often,Low,Average,1.69,5,10,3,FALSE,FALSE,31.5
+GD0287,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",2.2,Good,8.1,Never,Rarely,Low,Good,1.15,5,8.8,2,FALSE,FALSE,0.65
+GD0288,Male,Multi-platform,13-18,FPS,Overwatch,3.6,Fair,6.1,Rarely,Sometimes,Low,Good,1.08,,6.4,3,FALSE,FALSE,15.92
+GD0289,Male,PC,19-24,FPS,CS:GO,3.7,Fair,6.9,Often,Often,Low,Excellent,2.74,4,6.1,3,FALSE,FALSE,44.68
+GD0290,Female,PC,19-24,FPS,Valorant,1.9,Good,8.7,Rarely,Never,Low,Good,3.9,3,9.7,1,FALSE,FALSE,16.75
+GD0291,Male,Multi-platform,13-18,FPS,"Call of Duty",6.7,"Very Poor",3.6,Never,Rarely,Low,Poor,1.39,,7.5,4,FALSE,FALSE,148.22
+GD0292,Male,Multi-platform,19-24,"Battle Royale",PUBG,4.1,Poor,5.3,Often,Never,Low,"Below Average",2.36,5,8.1,2,FALSE,FALSE,36.57
+GD0293,Male,PC,19-24,MOBA,"League of Legends",3.9,Fair,6.7,Never,Often,Low,"Below Average",3.88,8,7,3,FALSE,FALSE,42.46
+GD0294,Male,PC,31+,Strategy,"StarCraft II",2.8,Good,7.1,Sometimes,Rarely,Low,Excellent,,2,9.9,2,FALSE,FALSE,4.35
+GD0295,Male,PC,19-24,MMO,"World of Warcraft",8.4,Poor,4.3,Sometimes,Rarely,High,"Below Average",2,4,4.1,5,TRUE,TRUE,18.07
+GD0296,Female,Mobile,19-24,MOBA,"Mobile Legends",5.4,Fair,6.4,Rarely,Never,Low,Average,2.94,3,6.7,3,TRUE,FALSE,144.36
+GD0297,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",6.2,Fair,5.7,Always,Often,Low,Average,2.61,,6.6,4,TRUE,TRUE,75.94
+GD0298,Male,PC,19-24,MOBA,"Dota 2",8.6,"Very Poor",3.2,Sometimes,Daily,Severe,"Below Average",3.75,6,6.5,8,TRUE,FALSE,394.83
+GD0299,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",7.6,Poor,5.2,Rarely,Rarely,High,Poor,1.45,7,5.7,7,TRUE,FALSE,49.2
+GD0300,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",8.6,"Very Poor",3.8,Never,Daily,Severe,Good,,7,5,7,TRUE,TRUE,142.09
+GD0301,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",3.8,Poor,5.4,Never,Often,Low,Average,1.25,8,6.4,2,FALSE,FALSE,16.03
+GD0302,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",6.2,Fair,6.4,Never,Sometimes,Moderate,Average,3.16,,5.9,5,FALSE,TRUE,144.07
+GD0303,Male,PC,13-18,Strategy,"Age of Empires",4.9,Fair,6.3,Sometimes,Often,Low,Good,3.45,,7.8,4,TRUE,FALSE,65.41
+GD0304,Female,PC,19-24,Strategy,"StarCraft II",7,"Very Poor",3.7,Rarely,Never,High,Poor,1.73,5,6.2,5,TRUE,FALSE,99.51
+GD0305,Male,Multi-platform,19-24,RPG,"Elden Ring",6.1,Fair,6.6,Sometimes,Never,Moderate,"Below Average",1.15,1,8.9,3,TRUE,FALSE,96.25
+GD0306,Male,Multi-platform,19-24,"Battle Royale",Warzone,6,Fair,7,Sometimes,Never,Low,Good,3.24,5,7,4,TRUE,TRUE,41.72
+GD0307,Male,PC,19-24,MMO,"World of Warcraft",7.8,"Very Poor",3.5,Often,Rarely,High,Good,3.5,10,5.5,4,FALSE,FALSE,58.16
+GD0308,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",8.2,Poor,4.4,Always,Never,Severe,Average,3.66,6,5.1,5,TRUE,TRUE,54.27
+GD0309,Female,Mobile,25-30,"Mobile Games","Candy Crush",6.6,Poor,5.3,Often,Rarely,High,Poor,,9,6.4,4,FALSE,TRUE,33.83
+GD0310,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",1.9,Good,7.2,Always,Sometimes,Low,Good,3.14,,8.2,1,FALSE,FALSE,17.48
+GD0311,Female,PC,19-24,MMO,"World of Warcraft",4.8,Fair,6.5,Never,Never,Low,Good,2.02,3,7.9,4,TRUE,FALSE,111.95
+GD0312,Male,PC,19-24,MOBA,"Dota 2",7.1,"Very Poor",3.3,Rarely,Rarely,Moderate,Failing,3.78,4,5.7,3,TRUE,FALSE,117.05
+GD0313,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",2.3,Good,8.3,Rarely,Sometimes,Low,"Below Average",1.48,7,9.7,1,FALSE,FALSE,13.66
+GD0314,Male,Multi-platform,25-30,MMO,"Elder Scrolls Online",3.5,Poor,5.1,Sometimes,Daily,Low,Average,,3,6.2,3,FALSE,FALSE,45.36
+GD0315,Male,PC,19-24,Strategy,"Age of Empires",6.2,Fair,6.4,Often,Rarely,Low,"Below Average",1.77,1,8.4,3,FALSE,TRUE,36.33
+GD0316,Female,PC,13-18,MOBA,"Dota 2",6.8,Poor,5.3,Sometimes,Never,Low,"Below Average",3.27,,6.6,3,FALSE,TRUE,125.63
+GD0317,Male,Multi-platform,13-18,RPG,"Elden Ring",3.8,Poor,5.2,Always,Rarely,Low,Good,3.74,,9.4,2,FALSE,FALSE,3.71
+GD0318,Male,Mobile,19-24,"Mobile Games","Clash of Clans",5.3,Fair,6.2,Rarely,Daily,Low,Average,2.24,2,7.9,3,TRUE,FALSE,11.59
+GD0319,Male,Multi-platform,19-24,"Battle Royale",Fortnite,9.4,"Very Poor",3.5,Often,Rarely,Severe,Poor,,6,6.7,6,TRUE,FALSE,230.02
+GD0320,Male,PC,25-30,MOBA,"Dota 2",8.3,"Very Poor",3.4,Sometimes,Daily,Moderate,Average,,1,7,6,TRUE,FALSE,28.19
+GD0321,Male,Mobile,13-18,"Mobile Games","Candy Crush",9.4,Poor,5.3,Sometimes,Sometimes,Severe,Average,3.66,,5.7,7,TRUE,TRUE,209.9
+GD0322,Female,PC,19-24,FPS,Valorant,5.2,Poor,5.3,Often,Sometimes,Low,"Below Average",2.76,7,7.2,4,FALSE,FALSE,38.79
+GD0323,Male,Multi-platform,13-18,RPG,"Elden Ring",8.3,Poor,5.4,Never,Never,Severe,Poor,1.8,,6.9,3,TRUE,TRUE,15.74
+GD0324,Male,Multi-platform,25-30,Strategy,"Civilization VI",4.4,Fair,6.3,Sometimes,Rarely,Low,Average,,2,7.5,2,FALSE,FALSE,38.23
+GD0325,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",10.3,Poor,5,Never,Rarely,Severe,Poor,1.12,4,4.2,6,FALSE,TRUE,420.51
+GD0326,Male,Multi-platform,19-24,RPG,"Elden Ring",9.8,"Very Poor",3.6,Never,Rarely,Severe,"Below Average",3.74,4,3.6,8,FALSE,FALSE,362.82
+GD0327,Female,Multi-platform,13-18,"Battle Royale",PUBG,12.2,"Very Poor",4,Sometimes,Often,High,Average,3.98,,2.4,7,TRUE,TRUE,98.66
+GD0328,Male,Multi-platform,25-30,Strategy,"Civilization VI",0.5,Good,7.7,Always,Daily,Low,Good,,1,8,1,FALSE,FALSE,34.47
+GD0329,Female,Multi-platform,19-24,FPS,"Call of Duty",5.5,Fair,6.3,Sometimes,Often,Low,Poor,3.78,8,7.3,3,TRUE,FALSE,88.16
+GD0330,Male,Multi-platform,19-24,"Battle Royale",PUBG,6.8,"Very Poor",3.6,Always,Sometimes,High,Average,,3,4.9,6,FALSE,FALSE,99.36
+GD0331,Female,PC,25-30,Strategy,"Age of Empires",0.6,Good,7.1,Never,Rarely,Low,"Below Average",,9,8,1,FALSE,FALSE,43.71
+GD0332,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",4.4,Fair,6.2,Often,Often,Low,"Below Average",1.76,3,6.2,2,FALSE,FALSE,40.73
+GD0333,Male,Multi-platform,13-18,"Battle Royale",Warzone,6.6,Poor,5,Never,Rarely,High,Failing,3.68,,7.4,5,TRUE,FALSE,31.87
+GD0334,Male,Multi-platform,25-30,"Mobile Games","Genshin Impact",0.8,Good,7.9,Rarely,Often,Low,Average,,1,9.9,1,FALSE,FALSE,36.55
+GD0335,Female,Multi-platform,13-18,Strategy,"Civilization VI",6.5,Poor,5.3,Never,Rarely,Low,"Below Average",1.71,,7.8,5,TRUE,FALSE,143.92
+GD0336,Male,Multi-platform,25-30,RPG,"Elden Ring",10.4,Poor,4.2,Always,Never,High,Poor,,2,6.5,7,TRUE,FALSE,65.47
+GD0337,Male,Multi-platform,13-18,"Battle Royale",PUBG,3.2,Good,8.2,Never,Never,Low,Average,2.45,,10.2,1,FALSE,FALSE,34.09
+GD0338,Female,PC,19-24,Strategy,"StarCraft II",7,"Very Poor",3.3,Often,Never,Moderate,Poor,,4,6.1,5,TRUE,TRUE,134.49
+GD0339,Male,Multi-platform,19-24,RPG,Skyrim,2.6,Good,8.7,Often,Rarely,Low,Good,2.62,7,6.6,2,FALSE,FALSE,27.14
+GD0340,Male,Multi-platform,31+,RPG,"Elden Ring",7.4,Poor,4.7,Never,Often,Moderate,Poor,,3,7.3,5,TRUE,FALSE,110.37
+GD0341,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",4,Fair,6.7,Rarely,Daily,Low,Poor,,5,9.1,3,FALSE,FALSE,1.34
+GD0342,Male,Multi-platform,31+,MMO,"Elder Scrolls Online",4.3,Poor,5.5,Often,Rarely,Low,Average,,10,6.1,3,FALSE,FALSE,2.87
+GD0343,Male,Multi-platform,25-30,"Battle Royale",Fortnite,10.7,Fair,5.6,Sometimes,Sometimes,Severe,Failing,,7,4.3,7,FALSE,FALSE,129.73
+GD0344,Male,Multi-platform,19-24,FPS,"Call of Duty",5.3,Fair,6.1,Often,Never,Low,Poor,1.18,10,6.3,5,TRUE,FALSE,116.49
+GD0345,Female,Multi-platform,25-30,RPG,"Elden Ring",0.6,Good,9,Rarely,Sometimes,Low,Excellent,,10,9.1,1,FALSE,FALSE,36.67
+GD0346,Male,PC,25-30,FPS,Valorant,5.1,Fair,6,Sometimes,Often,Low,"Below Average",,7,9,3,TRUE,FALSE,76.51
+GD0347,Male,Multi-platform,13-18,Strategy,"Civilization VI",4.2,Fair,6.2,Sometimes,Sometimes,Low,Average,3.36,,6.7,3,FALSE,FALSE,10.39
+GD0348,Female,Multi-platform,13-18,Strategy,"Civilization VI",10.6,"Very Poor",3.6,Rarely,Sometimes,Moderate,Poor,2.62,,3.6,6,TRUE,FALSE,53.97
+GD0349,Female,PC,19-24,FPS,CS:GO,4.4,Fair,7,Always,Never,Low,"Below Average",,9,9.6,3,FALSE,FALSE,22.6
+GD0350,Male,PC,19-24,Strategy,"Age of Empires",5.8,Fair,6.8,Rarely,Daily,Moderate,Average,3.2,2,7.2,4,TRUE,FALSE,131.01
+GD0351,Male,Multi-platform,25-30,"Battle Royale",Fortnite,8.7,Poor,4.6,Sometimes,Never,Severe,"Below Average",,5,4.5,5,FALSE,TRUE,189.93
+GD0352,Male,Mobile,13-18,"Mobile Games","Candy Crush",4.7,Fair,5.9,Often,Sometimes,Low,Average,1.47,,8.8,3,FALSE,FALSE,21.16
+GD0353,Male,Multi-platform,19-24,FPS,Overwatch,2.1,Good,7.8,Rarely,Sometimes,Low,"Below Average",2.47,9,8.8,1,FALSE,FALSE,14.14
+GD0354,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",6.3,Fair,6.6,Rarely,Rarely,Moderate,Average,3.3,3,8.5,3,TRUE,FALSE,12.48
+GD0355,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",6.2,Fair,6.6,Rarely,Often,Low,Good,1.34,,6.5,3,TRUE,FALSE,132.44
+GD0356,Female,Multi-platform,19-24,"Battle Royale",PUBG,5,Poor,5.4,Rarely,Often,Low,Average,2.59,9,8.4,2,TRUE,FALSE,36.55
+GD0357,Male,PC,19-24,MOBA,"Dota 2",5.5,Poor,5.2,Rarely,Sometimes,Moderate,Average,3.78,7,7.4,4,TRUE,TRUE,100.99
+GD0358,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",1.7,Good,7.9,Often,Sometimes,Low,Excellent,1.28,4,9.3,1,FALSE,FALSE,11.94
+GD0359,Female,PC,19-24,MMO,"World of Warcraft",4.6,Fair,5.9,Never,Sometimes,Low,Failing,,2,7.2,5,TRUE,FALSE,90.9
+GD0360,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",6.5,"Very Poor",3.2,Rarely,Rarely,Moderate,Failing,2.7,,7.6,4,FALSE,FALSE,90.46
+GD0361,Male,PC,19-24,MOBA,"Dota 2",6.6,Fair,5.8,Sometimes,Rarely,Moderate,Average,3.91,3,8.3,4,TRUE,TRUE,111.93
+GD0362,Male,PC,19-24,MOBA,"League of Legends",6.6,"Very Poor",3.9,Never,Rarely,Moderate,Poor,1.74,9,7.6,5,TRUE,TRUE,22.27
+GD0363,Male,PC,25-30,MMO,"World of Warcraft",8.7,"Very Poor",3.1,Often,Sometimes,Severe,Poor,,3,7.2,7,TRUE,TRUE,423.75
+GD0364,Male,Multi-platform,19-24,"Battle Royale",Warzone,5.8,Fair,6.1,Rarely,Often,Low,Average,3.99,9,8.2,4,TRUE,TRUE,50.13
+GD0365,Male,PC,13-18,Strategy,"StarCraft II",9.9,Poor,4.7,Never,Sometimes,High,Poor,1.4,,6.4,6,TRUE,TRUE,162.18
+GD0366,Male,Multi-platform,13-18,Strategy,"Civilization VI",10.4,"Very Poor",3.1,Often,Daily,High,"Below Average",3.03,,4.9,7,TRUE,TRUE,157.76
+GD0367,Female,PC,19-24,FPS,CS:GO,3.9,Fair,6.7,Sometimes,Sometimes,Low,Average,2.05,1,7.6,1,FALSE,FALSE,7.34
+GD0368,Female,PC,13-18,MOBA,"Dota 2",9.4,"Very Poor",4,Often,Rarely,Severe,Failing,3.48,,6.2,5,TRUE,TRUE,497.21
+GD0369,Male,Multi-platform,19-24,RPG,Skyrim,4.7,Fair,6.3,Never,Sometimes,Low,Average,2.5,3,8.1,2,TRUE,FALSE,123.43
+GD0370,Female,Multi-platform,19-24,"Battle Royale",PUBG,8.4,Poor,4.8,Rarely,Often,Moderate,Excellent,3.34,9,7.5,4,TRUE,FALSE,21.6
+GD0371,Female,PC,19-24,Strategy,"StarCraft II",2.1,Good,8.5,Never,Daily,Low,Good,1.85,8,9.3,1,FALSE,FALSE,5.6
+GD0372,Female,Multi-platform,13-18,"Battle Royale",PUBG,4.1,Fair,6.6,Often,Often,Low,Poor,3.98,,9.6,3,FALSE,FALSE,9.84
+GD0373,Male,Mobile,19-24,MOBA,"Mobile Legends",10.9,Poor,4.2,Rarely,Sometimes,Severe,Poor,3.19,4,5.2,7,TRUE,TRUE,259.23
+GD0374,Female,Multi-platform,19-24,"Battle Royale",Fortnite,6.8,"Very Poor",3.6,Sometimes,Rarely,High,Poor,1.49,8,4.7,5,TRUE,FALSE,113.4
+GD0375,Male,PC,13-18,Strategy,"StarCraft II",2.9,Good,8.5,Never,Never,Low,Good,3.68,,9,2,FALSE,FALSE,34.24
+GD0376,Male,Mobile,19-24,"Mobile Games","Candy Crush",7.4,Poor,4.3,Often,Rarely,Moderate,"Below Average",,8,5.9,2,FALSE,TRUE,65.5
+GD0377,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",6.4,Fair,6.5,Often,Rarely,Moderate,Excellent,3.49,2,7.2,3,FALSE,TRUE,138.19
+GD0378,Male,Multi-platform,13-18,RPG,"Elden Ring",6.4,Fair,6,Always,Often,Low,Average,2.09,,8.1,3,FALSE,FALSE,122.38
+GD0379,Female,Multi-platform,19-24,RPG,Skyrim,5.9,Fair,6.3,Rarely,Daily,Low,Average,3.28,10,8.8,3,FALSE,TRUE,89.49
+GD0380,Male,PC,13-18,Strategy,"StarCraft II",6.5,Poor,4.6,Always,Sometimes,Moderate,Failing,3.7,,8,3,TRUE,FALSE,117.74
+GD0381,Male,PC,13-18,FPS,CS:GO,5.2,Fair,6.4,Often,Sometimes,Low,Excellent,2.22,,7.8,2,TRUE,FALSE,115.04
+GD0382,Female,Multi-platform,13-18,"Battle Royale",Warzone,8.9,Poor,5.2,Always,Daily,Severe,"Below Average",2.43,,4.7,5,TRUE,FALSE,206.91
+GD0383,Male,PC,13-18,Strategy,"Age of Empires",7.1,Poor,4.3,Often,Daily,Moderate,"Below Average",3.79,,8.1,5,TRUE,TRUE,70.71
+GD0384,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",6.1,Fair,5.6,Always,Daily,Moderate,Good,2.35,8,8.2,4,FALSE,TRUE,143.21
+GD0385,Male,PC,13-18,MMO,"World of Warcraft",4.5,Poor,5,Always,Often,Low,Average,2.29,,9.5,1,FALSE,FALSE,2.07
+GD0386,Female,Mobile,19-24,"Mobile Games","Clash of Clans",6.6,"Very Poor",4,Never,Daily,High,Failing,3.2,6,8.1,5,FALSE,TRUE,68.84
+GD0387,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",6.8,Poor,5,Rarely,Rarely,High,Failing,1.87,7,5.2,4,FALSE,TRUE,20.72
+GD0388,Male,PC,13-18,MOBA,"Dota 2",5.2,Fair,5.7,Never,Sometimes,Low,Good,3.09,,7.6,4,FALSE,FALSE,67.5
+GD0389,Female,PC,19-24,MOBA,"Dota 2",5.2,Poor,5.1,Often,Sometimes,Low,Failing,1.45,6,6.9,2,TRUE,FALSE,148.41
+GD0390,Female,PC,19-24,FPS,CS:GO,3.8,Fair,6,Sometimes,Rarely,Low,"Below Average",3.83,4,6.7,1,FALSE,FALSE,48.79
+GD0391,Female,PC,13-18,Strategy,"StarCraft II",5.8,Fair,5.9,Often,Sometimes,Low,Average,2.4,,8.5,5,FALSE,TRUE,86.15
+GD0392,Male,Mobile,25-30,MOBA,"Mobile Legends",7.4,Poor,4.1,Sometimes,Daily,High,"Below Average",,7,8.4,3,TRUE,TRUE,61.67
+GD0393,Male,Multi-platform,19-24,FPS,Overwatch,9.3,"Very Poor",3,Always,Sometimes,Moderate,Poor,1.42,8,7.2,5,TRUE,TRUE,232.19
+GD0394,Female,Multi-platform,19-24,"Battle Royale",PUBG,5.9,Fair,6.4,Rarely,Often,Moderate,"Below Average",2.47,7,5.3,5,TRUE,FALSE,120.38
+GD0395,Female,Mobile,25-30,"Mobile Games","Clash of Clans",13.9,Poor,4.5,Often,Sometimes,Severe,Poor,,5,4.9,10,TRUE,FALSE,247.18
+GD0396,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",5.8,Fair,5.7,Always,Sometimes,Moderate,Average,2.61,5,6.5,4,TRUE,TRUE,96.56
+GD0397,Male,PC,13-18,MMO,"World of Warcraft",6.4,Poor,5.5,Sometimes,Often,Moderate,Average,3.75,,5.3,4,FALSE,TRUE,65.67
+GD0398,Male,PC,19-24,Strategy,"StarCraft II",12.6,Fair,5.7,Rarely,Rarely,High,"Below Average",3.67,1,4.1,9,TRUE,TRUE,242.51
+GD0399,Male,PC,19-24,Strategy,"StarCraft II",8.9,"Very Poor",3.5,Always,Never,High,Poor,,1,6.7,5,FALSE,TRUE,277.78
+GD0400,Female,Multi-platform,25-30,Strategy,"Civilization VI",8.2,"Very Poor",3.9,Often,Rarely,Moderate,Average,,1,5.2,5,FALSE,TRUE,44.07
+GD0401,Male,PC,19-24,MOBA,"League of Legends",7.7,Poor,4.7,Always,Often,High,Failing,2.46,7,4.9,3,TRUE,FALSE,65.22
+GD0402,Female,PC,19-24,MOBA,"Dota 2",1.2,Good,7.2,Never,Rarely,Low,Excellent,3.52,5,11.2,1,FALSE,FALSE,41.12
+GD0403,Male,Multi-platform,19-24,Strategy,"Civilization VI",4.6,Fair,5.9,Always,Never,Low,Good,2.32,9,6.3,3,TRUE,FALSE,18.38
+GD0404,Male,PC,19-24,MMO,"World of Warcraft",6.4,Fair,6.7,Sometimes,Sometimes,Low,Poor,,4,5.5,3,TRUE,TRUE,22.81
+GD0405,Male,Multi-platform,13-18,"Battle Royale",Fortnite,10,"Very Poor",3.8,Often,Rarely,Severe,Average,1.3,,5.7,5,TRUE,TRUE,226.85
+GD0406,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",13.3,Poor,5,Never,Daily,High,Poor,1.11,2,3.8,8,TRUE,TRUE,434.02
+GD0407,Male,Multi-platform,13-18,RPG,"Elden Ring",10.4,Poor,4.7,Often,Never,Severe,"Below Average",3.15,,6,8,TRUE,TRUE,246.69
+GD0408,Female,PC,31+,MOBA,"League of Legends",3.6,Fair,6.3,Rarely,Never,Low,Average,,2,8.2,1,FALSE,FALSE,23.15
+GD0409,Female,Multi-platform,13-18,"Battle Royale",PUBG,1.6,Good,8.3,Rarely,Daily,Low,Excellent,1.48,,7.1,1,FALSE,FALSE,7.58
+GD0410,Female,Multi-platform,31+,"Battle Royale",Warzone,3.1,Good,7.1,Sometimes,Rarely,Low,Average,,8,7.1,2,FALSE,FALSE,45.22
+GD0411,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",6,Fair,6.4,Rarely,Sometimes,Moderate,Poor,2.99,9,6.1,3,TRUE,FALSE,109.8
+GD0412,Female,Multi-platform,25-30,"Battle Royale","Apex Legends",10.3,Poor,4.8,Never,Never,Severe,Average,,3,3.5,6,FALSE,TRUE,348.04
+GD0413,Male,Multi-platform,13-18,FPS,"Call of Duty",4.8,Fair,6.8,Sometimes,Daily,Low,"Below Average",2.17,,6.5,5,FALSE,FALSE,101.85
+GD0414,Female,PC,19-24,FPS,CS:GO,4.6,Fair,6.5,Never,Often,Low,Average,2.46,1,8.5,5,TRUE,FALSE,83.38
+GD0415,Female,Mobile,13-18,"Mobile Games","Clash of Clans",7.3,Fair,5.8,Always,Rarely,Moderate,Good,2.13,,6.6,4,FALSE,TRUE,31.02
+GD0416,Male,PC,13-18,FPS,Valorant,7.5,Poor,5,Rarely,Rarely,Moderate,Poor,1.24,,6.9,2,TRUE,FALSE,135.83
+GD0417,Male,PC,13-18,MOBA,"League of Legends",6.2,Poor,5.5,Never,Never,Low,"Below Average",1.68,,7.6,4,FALSE,TRUE,145.5
+GD0418,Male,PC,13-18,MOBA,"Dota 2",8.3,Poor,5.5,Sometimes,Often,High,Poor,2.24,,6.9,4,TRUE,TRUE,14.14
+GD0419,Female,Multi-platform,31+,RPG,"Elden Ring",7.7,"Very Poor",3.4,Rarely,Sometimes,Severe,"Below Average",,8,6.4,5,TRUE,FALSE,38.14
+GD0420,Male,PC,13-18,MMO,"World of Warcraft",4,Fair,6.4,Never,Often,Low,Excellent,2.79,,6.5,3,FALSE,FALSE,37.75
+GD0421,Male,PC,19-24,Strategy,"Age of Empires",1.3,Good,8.2,Never,Often,Low,Excellent,2.8,2,9.4,1,FALSE,FALSE,18.98
+GD0422,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",8.6,Fair,5.7,Never,Never,Severe,Average,,5,7.2,5,TRUE,FALSE,96.61
+GD0423,Other,PC,19-24,MMO,"World of Warcraft",5.2,Fair,6.9,Always,Never,Low,"Below Average",1.46,6,7,3,TRUE,FALSE,144.76
+GD0424,Female,Mobile,13-18,MOBA,"Mobile Legends",4.7,Fair,5.7,Rarely,Rarely,Low,Poor,1.93,,9.3,3,TRUE,FALSE,36.45
+GD0425,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",7.3,"Very Poor",3.1,Sometimes,Daily,Moderate,Poor,3.71,6,5.5,4,TRUE,FALSE,30.38
+GD0426,Female,PC,13-18,MOBA,"League of Legends",10.2,Poor,5.3,Sometimes,Rarely,Severe,Poor,3.91,,3.6,5,FALSE,FALSE,263.64
+GD0427,Male,Multi-platform,25-30,FPS,"Call of Duty",4.2,Fair,6.6,Often,Never,Low,Good,,3,8.6,1,FALSE,FALSE,28.17
+GD0428,Male,PC,19-24,MOBA,"League of Legends",2.5,Good,7.4,Never,Often,Low,Excellent,1.17,1,10.4,3,FALSE,FALSE,40.43
+GD0429,Female,PC,25-30,MMO,"World of Warcraft",5.1,Fair,5.9,Always,Daily,Low,Average,,6,6.9,2,TRUE,FALSE,33.99
+GD0430,Male,Multi-platform,25-30,"Mobile Games","Genshin Impact",6,Fair,6.5,Never,Often,Low,"Below Average",,1,6,1,TRUE,FALSE,109.61
+GD0431,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",5,Fair,5.8,Never,Rarely,Low,Average,3.16,4,6,4,FALSE,FALSE,89.73
+GD0432,Female,Mobile,19-24,"Mobile Games","Candy Crush",3.9,Poor,5.3,Rarely,Often,Low,Average,3.17,7,7.4,2,FALSE,FALSE,49.48
+GD0433,Male,PC,19-24,FPS,CS:GO,4.5,Fair,5.8,Often,Daily,Low,Excellent,3.73,9,7.2,5,TRUE,FALSE,135.01
+GD0434,Male,Mobile,13-18,"Mobile Games","Clash of Clans",3.8,Poor,5.2,Often,Daily,Low,Average,3.04,,9.9,2,FALSE,FALSE,21.62
+GD0435,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",7.8,Fair,5.7,Never,Often,High,"Below Average",2.53,,6.2,6,TRUE,TRUE,147.2
+GD0436,Male,Multi-platform,19-24,FPS,Overwatch,5.3,Fair,6.9,Never,Sometimes,Low,Good,3.49,5,5.6,3,TRUE,FALSE,97.04
+GD0437,Male,PC,19-24,MOBA,"League of Legends",4.6,Poor,5.4,Never,Never,Low,Good,,5,9,4,TRUE,FALSE,74.83
+GD0438,Male,Multi-platform,19-24,"Battle Royale",PUBG,3.7,Poor,5.3,Always,Sometimes,Low,Average,2.31,9,7.1,1,FALSE,FALSE,13.27
+GD0439,Female,Multi-platform,13-18,"Battle Royale",Fortnite,3.9,Fair,6,Never,Daily,Low,Good,1.67,,6.1,2,FALSE,FALSE,34.03
+GD0440,Female,PC,31+,FPS,CS:GO,1,Good,7.4,Sometimes,Daily,Low,"Below Average",,9,8,1,FALSE,FALSE,49.46
+GD0441,Female,PC,13-18,Strategy,"StarCraft II",4.6,Fair,6.9,Sometimes,Never,Low,Average,1.05,,8.2,2,FALSE,FALSE,100.04
+GD0442,Female,Multi-platform,13-18,"Battle Royale",PUBG,5.8,Fair,6.4,Always,Often,Low,Good,3.6,,6.4,4,TRUE,FALSE,87.25
+GD0443,Male,Multi-platform,13-18,FPS,"Call of Duty",11.4,Poor,4.8,Sometimes,Daily,High,Failing,2.61,,3.2,6,TRUE,TRUE,237.13
+GD0444,Male,Multi-platform,13-18,FPS,Overwatch,2.5,Good,8.4,Rarely,Often,Low,Excellent,2.61,,8.7,1,FALSE,FALSE,14.02
+GD0445,Female,Multi-platform,25-30,"Battle Royale",Fortnite,5.2,Fair,6,Always,Never,Low,Excellent,,4,8.1,3,TRUE,FALSE,54.39
+GD0446,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",8.1,Poor,4.2,Always,Daily,High,"Below Average",3.21,,4.8,4,FALSE,FALSE,67.44
+GD0447,Female,Multi-platform,13-18,RPG,"Elden Ring",1.6,Fair,7,Often,Often,Low,Average,3.63,,9.5,1,FALSE,FALSE,9.19
+GD0448,Female,Multi-platform,19-24,MMO,"Elder Scrolls Online",2.1,Good,8.9,Always,Rarely,Low,Good,1.32,10,7.6,2,FALSE,FALSE,33.11
+GD0449,Male,PC,19-24,Strategy,"Age of Empires",9.1,Poor,5.3,Never,Daily,Severe,Poor,1.88,4,3.8,4,TRUE,TRUE,493.27
+GD0450,Female,Mobile,19-24,MOBA,"Mobile Legends",4.1,Fair,6.9,Always,Often,Low,Excellent,2.52,4,8.5,2,FALSE,FALSE,38.82
+GD0451,Female,Multi-platform,13-18,MMO,"Final Fantasy XIV",9.5,"Very Poor",3.8,Rarely,Rarely,Severe,"Below Average",3.53,,3.7,5,TRUE,TRUE,229.59
+GD0452,Male,PC,19-24,Strategy,"Age of Empires",5,Fair,6.6,Rarely,Never,Low,Good,1.65,8,8.8,3,FALSE,FALSE,25.71
+GD0453,Male,PC,13-18,MOBA,"League of Legends",3.7,Fair,6.6,Rarely,Often,Low,Good,1.51,,7.1,2,FALSE,FALSE,19.24
+GD0454,Female,Mobile,19-24,"Mobile Games","Clash of Clans",6.2,Poor,5.3,Often,Sometimes,Moderate,Good,1.95,10,8.4,4,TRUE,TRUE,47.33
+GD0455,Male,Multi-platform,25-30,RPG,"Elden Ring",5.4,Fair,5.7,Rarely,Often,Low,Average,,2,9.1,3,FALSE,FALSE,118.39
+GD0456,Male,PC,13-18,MOBA,"Dota 2",6.8,Poor,4.5,Often,Often,Low,Poor,1.93,,6.3,4,TRUE,FALSE,25.24
+GD0457,Male,PC,19-24,Strategy,"Age of Empires",4.1,Poor,5.3,Rarely,Daily,Low,Average,1.04,2,7.2,1,FALSE,FALSE,39.06
+GD0458,Male,Mobile,25-30,"Mobile Games","PUBG Mobile",5.9,Poor,5.3,Always,Never,Low,Average,,1,6.1,4,TRUE,FALSE,32.6
+GD0459,Male,Multi-platform,13-18,"Battle Royale",Fortnite,8.5,"Very Poor",3.3,Never,Sometimes,Moderate,Average,1.52,,5.8,5,TRUE,TRUE,97.89
+GD0460,Male,Multi-platform,19-24,RPG,"Elden Ring",7.7,"Very Poor",3.3,Often,Often,High,"Below Average",2.28,9,4.4,5,TRUE,TRUE,93.4
+GD0461,Male,Multi-platform,13-18,RPG,"Elden Ring",6,Fair,6.6,Rarely,Sometimes,Low,Average,3.61,,6,3,TRUE,TRUE,35.94
+GD0462,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.5,Poor,5.5,Always,Sometimes,Moderate,Poor,1.07,3,6.7,3,TRUE,FALSE,96.1
+GD0463,Female,PC,19-24,MMO,"World of Warcraft",6,Poor,5.3,Never,Never,Moderate,Good,1.82,1,7.3,5,TRUE,FALSE,27.43
+GD0464,Female,Mobile,25-30,MOBA,"Mobile Legends",12.5,"Very Poor",3.5,Never,Daily,High,Failing,,6,3.8,10,TRUE,FALSE,120.1
+GD0465,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",11.7,Poor,4.3,Sometimes,Never,Severe,Failing,3.22,,2.5,7,TRUE,TRUE,339.9
+GD0466,Male,PC,13-18,Strategy,"StarCraft II",5.7,Fair,6.9,Always,Sometimes,Moderate,"Below Average",1.87,,7.1,4,TRUE,TRUE,30.5
+GD0467,Female,PC,13-18,MOBA,"Dota 2",6,Poor,5.2,Sometimes,Daily,Moderate,Average,1.28,,5.5,2,TRUE,TRUE,32.23
+GD0468,Male,Mobile,13-18,MOBA,"Mobile Legends",2.9,Good,8.8,Sometimes,Daily,Low,Good,3.59,,8.9,1,FALSE,FALSE,36.59
+GD0469,Male,Mobile,13-18,"Mobile Games","Candy Crush",9.7,"Very Poor",3.6,Rarely,Sometimes,Moderate,Poor,3.53,,5.4,6,TRUE,TRUE,302.88
+GD0470,Male,Multi-platform,13-18,RPG,"Elden Ring",1.9,Good,7.5,Rarely,Sometimes,Low,Excellent,3.01,,7,1,FALSE,FALSE,28.1
+GD0471,Female,Multi-platform,25-30,MMO,"Final Fantasy XIV",0.7,Good,8.4,Always,Daily,Low,Good,,10,8.3,1,FALSE,FALSE,16.4
+GD0472,Male,Multi-platform,13-18,"Battle Royale",Warzone,5.5,Poor,5.4,Rarely,Never,Moderate,Average,2.44,,7,4,TRUE,FALSE,57.54
+GD0473,Male,Multi-platform,25-30,RPG,"Cyberpunk 2077",1,Good,8.9,Sometimes,Never,Low,Good,,8,8.3,1,FALSE,FALSE,1.31
+GD0474,Male,PC,19-24,MOBA,"Dota 2",9.3,Poor,5.3,Always,Often,Severe,Poor,1.8,10,5.9,6,TRUE,FALSE,323.47
+GD0475,Male,Multi-platform,25-30,MMO,"Elder Scrolls Online",11.6,Poor,4.5,Sometimes,Daily,Severe,Average,,3,2.6,7,TRUE,FALSE,317.18
+GD0476,Female,PC,19-24,MOBA,"Dota 2",4.8,Poor,5.1,Sometimes,Daily,Low,Good,1.4,4,9,3,TRUE,FALSE,46.29
+GD0477,Male,Multi-platform,25-30,MMO,"Elder Scrolls Online",1.1,Good,8,Never,Sometimes,Low,Excellent,,6,7.7,1,FALSE,FALSE,47.51
+GD0478,Male,PC,19-24,MMO,"World of Warcraft",4,Fair,6.7,Sometimes,Daily,Low,Average,2.89,10,7,2,FALSE,FALSE,8.23
+GD0479,Male,PC,19-24,FPS,Valorant,4,Fair,5.6,Never,Sometimes,Low,Good,,5,7.1,2,FALSE,FALSE,41.19
+GD0480,Female,PC,13-18,MOBA,"League of Legends",7.3,"Very Poor",3.4,Never,Rarely,High,Average,3.36,,5.5,2,TRUE,TRUE,95.15
+GD0481,Female,Multi-platform,19-24,RPG,Skyrim,9.9,"Very Poor",3.7,Sometimes,Sometimes,Severe,"Below Average",1.67,6,4.6,6,TRUE,TRUE,426.59
+GD0482,Male,Mobile,19-24,MOBA,"Mobile Legends",2.1,Good,9,Often,Sometimes,Low,Good,,10,7.4,1,FALSE,FALSE,48.98
+GD0483,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",1.8,Good,7.5,Never,Often,Low,Good,3.3,10,9.4,1,FALSE,FALSE,15.91
+GD0484,Male,Multi-platform,19-24,FPS,"Call of Duty",8.1,Poor,5.5,Never,Never,Moderate,"Below Average",3.18,4,4.8,5,TRUE,TRUE,121.33
+GD0485,Male,Multi-platform,13-18,"Battle Royale",Fortnite,11.2,"Very Poor",3.9,Never,Never,Severe,"Below Average",3.62,,3.6,6,TRUE,TRUE,352.98
+GD0486,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",11.6,Poor,5.4,Always,Never,High,Poor,2.57,3,3.8,10,FALSE,FALSE,426.48
+GD0487,Male,Multi-platform,25-30,Strategy,"Civilization VI",12.4,Poor,5.3,Rarely,Sometimes,Severe,Average,,4,4.7,9,FALSE,TRUE,238.32
+GD0488,Female,Multi-platform,13-18,MMO,"Final Fantasy XIV",3.9,Poor,5.2,Rarely,Never,Low,Good,3.55,,9.3,5,FALSE,FALSE,38.56
+GD0489,Female,Multi-platform,13-18,"Battle Royale",PUBG,5.5,Fair,6.6,Never,Daily,Moderate,Average,3.16,,7.3,3,TRUE,TRUE,128.87
+GD0490,Male,Multi-platform,25-30,"Battle Royale",Fortnite,0.9,Good,8.4,Rarely,Often,Low,Average,,2,7.9,1,FALSE,FALSE,7.57
+GD0491,Female,Multi-platform,19-24,"Battle Royale",Fortnite,5.7,Poor,5.5,Always,Rarely,Low,Good,1.53,5,5.4,5,FALSE,TRUE,75.19
+GD0492,Male,Multi-platform,19-24,"Battle Royale",Fortnite,14.1,"Very Poor",3.9,Often,Often,Severe,"Below Average",,2,4.8,10,TRUE,TRUE,394.74
+GD0493,Female,PC,19-24,MOBA,"League of Legends",5.8,Fair,6.8,Never,Daily,Moderate,Average,2.43,6,6.9,4,FALSE,FALSE,70.73
+GD0494,Male,PC,19-24,FPS,CS:GO,6,Fair,6.5,Often,Rarely,Moderate,"Below Average",3.43,9,6.4,5,TRUE,FALSE,95.85
+GD0495,Female,Multi-platform,19-24,"Battle Royale",PUBG,3.8,Fair,6,Sometimes,Often,Low,Excellent,3.16,2,9.2,4,FALSE,FALSE,9.48
+GD0496,Male,PC,13-18,MMO,"World of Warcraft",7.9,Poor,5.1,Often,Rarely,Moderate,Average,3.47,,7.8,5,FALSE,TRUE,136.26
+GD0497,Male,Multi-platform,25-30,MMO,"Final Fantasy XIV",9.1,Fair,5.9,Never,Rarely,High,Failing,,8,6.4,6,TRUE,TRUE,224.46
+GD0498,Male,Multi-platform,19-24,"Battle Royale",Fortnite,9.5,"Very Poor",3.7,Always,Rarely,High,Average,1.14,4,5.7,6,TRUE,TRUE,207.65
+GD0499,Male,Multi-platform,19-24,"Battle Royale",PUBG,5.9,Fair,6.7,Always,Often,Low,Average,2.14,8,5.4,3,FALSE,TRUE,131.7
+GD0500,Female,Multi-platform,19-24,"Battle Royale",Fortnite,7.1,Poor,4.7,Sometimes,Sometimes,High,"Below Average",1.02,3,5.5,3,TRUE,TRUE,142.02
+GD0501,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",9.6,"Very Poor",3.7,Always,Rarely,Moderate,Poor,3.97,,5.6,6,TRUE,TRUE,82.52
+GD0502,Female,Multi-platform,19-24,RPG,Skyrim,4.1,Fair,5.6,Rarely,Rarely,Low,"Below Average",,1,6.6,2,FALSE,FALSE,34.53
+GD0503,Male,Multi-platform,19-24,RPG,Skyrim,7.5,"Very Poor",3.3,Sometimes,Daily,Low,Average,1.78,4,8,5,FALSE,FALSE,70.7
+GD0504,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",3.5,Good,7.9,Never,Rarely,Low,Good,2.45,,7.9,3,FALSE,FALSE,10.74
+GD0505,Female,Multi-platform,25-30,RPG,"Cyberpunk 2077",0.8,Good,8.2,Often,Often,Low,Good,,6,10.5,1,FALSE,FALSE,27.33
+GD0506,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",9.4,"Very Poor",3.6,Rarely,Daily,High,"Below Average",3.04,,7.1,4,FALSE,FALSE,470.19
+GD0507,Male,PC,19-24,FPS,Valorant,5.5,Fair,6.3,Sometimes,Often,Low,"Below Average",3.86,4,9.1,3,TRUE,FALSE,91.49
+GD0508,Male,Multi-platform,13-18,FPS,Overwatch,4.6,Fair,6.8,Always,Sometimes,Low,Poor,3.77,,8.5,2,TRUE,FALSE,96.69
+GD0509,Male,Multi-platform,13-18,FPS,Overwatch,3.5,Good,8.4,Never,Rarely,Low,Good,3.76,,10,1,FALSE,FALSE,38.67
+GD0510,Male,Multi-platform,19-24,"Battle Royale",Warzone,5.7,Fair,6.4,Always,Daily,Moderate,"Below Average",2.06,7,6.6,6,TRUE,TRUE,89.3
+GD0511,Male,PC,19-24,Strategy,"Age of Empires",1,Good,8,Sometimes,Daily,Low,Good,3.87,9,11.3,1,FALSE,FALSE,7.33
+GD0512,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",6.7,"Very Poor",3.1,Never,Never,Low,"Below Average",2.79,9,8.2,2,FALSE,TRUE,103.77
+GD0513,Male,PC,13-18,MOBA,"Dota 2",2.1,Good,7.3,Sometimes,Daily,Low,Excellent,3.63,,8.2,3,FALSE,FALSE,41.89
+GD0514,Female,Multi-platform,19-24,Strategy,"Civilization VI",3.7,Fair,6.1,Often,Never,Low,Good,,1,6.1,3,FALSE,FALSE,7.4
+GD0515,Male,PC,13-18,Strategy,"StarCraft II",11.2,"Very Poor",3.4,Sometimes,Never,High,"Below Average",2.41,,4.6,8,FALSE,FALSE,436.35
+GD0516,Male,Multi-platform,13-18,"Battle Royale",Warzone,6.3,Fair,6.2,Often,Rarely,Moderate,Average,2.2,,7.1,4,FALSE,TRUE,85.83
+GD0517,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",12.2,Poor,5.3,Rarely,Daily,High,"Below Average",3.3,9,4.1,7,TRUE,TRUE,343.9
+GD0518,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.4,Fair,5.9,Often,Never,Low,Poor,1.63,10,6.9,3,TRUE,FALSE,114.75
+GD0519,Male,Mobile,13-18,MOBA,"Mobile Legends",7.8,"Very Poor",3.1,Never,Often,High,Good,1.33,,4.5,5,TRUE,TRUE,50.64
+GD0520,Male,Mobile,19-24,"Mobile Games","Clash of Clans",3.1,Good,8.7,Often,Daily,Low,Average,3.87,1,7,1,FALSE,FALSE,1.5
+GD0521,Male,PC,19-24,Strategy,"StarCraft II",8.2,"Very Poor",3.6,Sometimes,Rarely,Moderate,Poor,,10,4.1,6,TRUE,TRUE,29
+GD0522,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",6.6,Poor,4.9,Always,Rarely,High,"Below Average",2.86,1,6.8,5,TRUE,FALSE,35.07
+GD0523,Female,PC,19-24,MOBA,"League of Legends",9.1,Poor,4.7,Never,Often,High,Poor,3.33,5,4.3,6,FALSE,TRUE,479.29
+GD0524,Male,PC,13-18,FPS,Valorant,4.6,Fair,6.2,Sometimes,Never,Low,Average,1.61,,9.1,6,FALSE,FALSE,40.53
+GD0525,Male,Multi-platform,19-24,Strategy,"Civilization VI",7.3,"Very Poor",3.2,Rarely,Daily,High,Poor,3.31,3,5.3,4,TRUE,TRUE,84.52
+GD0526,Male,PC,13-18,FPS,Valorant,1.7,Good,8.2,Sometimes,Rarely,Low,Excellent,3.03,,7.6,1,FALSE,FALSE,12.32
+GD0527,Male,Multi-platform,13-18,FPS,Overwatch,4.3,Fair,6.9,Sometimes,Sometimes,Low,"Below Average",3.2,,9.5,4,FALSE,FALSE,32.71
+GD0528,Male,Multi-platform,19-24,FPS,Overwatch,1.3,Good,8.5,Often,Never,Low,Average,3.92,8,9.2,1,FALSE,FALSE,44.99
+GD0529,Male,PC,25-30,MMO,"World of Warcraft",10.4,Poor,4.3,Often,Sometimes,Severe,Poor,,3,6.4,5,TRUE,FALSE,61.9
+GD0530,Female,PC,19-24,MOBA,"Dota 2",10.1,Fair,5.7,Always,Often,Severe,"Below Average",2.09,1,3.6,8,TRUE,TRUE,350.42
+GD0531,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",5.8,Fair,6.3,Rarely,Daily,Low,Average,1.63,3,8.8,5,FALSE,FALSE,124.29
+GD0532,Male,Mobile,13-18,"Mobile Games","Clash of Clans",2.5,Good,8.9,Often,Daily,Low,Average,1.57,,10.4,1,FALSE,FALSE,30.97
+GD0533,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",2.6,Good,8.8,Never,Never,Low,Excellent,2.58,,10.1,2,FALSE,FALSE,26.71
+GD0534,Male,PC,19-24,MOBA,"League of Legends",10.2,"Very Poor",3.3,Rarely,Daily,High,Failing,3.44,10,6.9,7,FALSE,FALSE,207.43
+GD0535,Male,PC,13-18,FPS,CS:GO,5.8,Fair,6.2,Never,Never,Moderate,Poor,2.69,,7.1,4,TRUE,TRUE,88.33
+GD0536,Female,Multi-platform,13-18,MMO,"Final Fantasy XIV",1.9,Good,7.1,Always,Rarely,Low,Average,1.78,,10.9,1,FALSE,FALSE,23.78
+GD0537,Male,Multi-platform,13-18,RPG,"Elden Ring",8,Poor,5,Never,Rarely,High,Poor,3.81,,7.7,5,TRUE,TRUE,85.28
+GD0538,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",3.4,Good,7.4,Never,Daily,Low,Average,2.15,,9,1,FALSE,FALSE,30.22
+GD0539,Male,PC,19-24,Strategy,"Age of Empires",1.2,Good,7.6,Often,Sometimes,Low,Average,,1,8.6,1,FALSE,FALSE,32.34
+GD0540,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",4.3,Fair,6.3,Rarely,Sometimes,Low,"Below Average",2.46,10,9.2,3,FALSE,FALSE,43.72
+GD0541,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",10.7,Poor,5.3,Never,Sometimes,Severe,"Below Average",3.11,,4.3,7,TRUE,TRUE,115.6
+GD0542,Male,Multi-platform,25-30,"Battle Royale",PUBG,3.3,Good,8.9,Often,Sometimes,Low,"Below Average",,6,9.3,3,FALSE,FALSE,11.66
+GD0543,Male,Multi-platform,31+,Strategy,"Civilization VI",10.4,"Very Poor",3.2,Sometimes,Often,Severe,Average,,10,7,7,FALSE,FALSE,339.48
+GD0544,Female,Mobile,19-24,"Mobile Games","Candy Crush",6.7,Poor,4.6,Rarely,Sometimes,High,Poor,1.18,5,6.5,5,TRUE,TRUE,37
+GD0545,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",6.3,Poor,5.1,Sometimes,Daily,Low,Excellent,1.91,,7.7,3,FALSE,FALSE,33.58
+GD0546,Male,PC,19-24,MMO,"World of Warcraft",6.2,Fair,6.7,Often,Rarely,Moderate,Average,3.56,6,5.9,3,TRUE,FALSE,138.86
+GD0547,Male,PC,19-24,MMO,"World of Warcraft",3.2,Good,8.7,Sometimes,Sometimes,Low,Average,3.82,6,8.4,4,FALSE,FALSE,42.64
+GD0548,Male,Multi-platform,19-24,FPS,"Call of Duty",7.1,"Very Poor",3.8,Never,Daily,High,"Below Average",,8,6,5,FALSE,FALSE,96.9
+GD0549,Male,PC,13-18,MOBA,"Dota 2",8.4,Poor,5.2,Rarely,Sometimes,Low,Poor,3.2,,4.7,5,TRUE,TRUE,73.02
+GD0550,Female,Multi-platform,19-24,"Battle Royale",Fortnite,7.2,Fair,5.9,Never,Sometimes,Moderate,Excellent,1.41,2,6.2,4,TRUE,TRUE,99.01
+GD0551,Male,PC,19-24,Strategy,"Age of Empires",9.5,"Very Poor",3.2,Always,Daily,Severe,Excellent,1.94,5,4.6,6,TRUE,FALSE,90.31
+GD0552,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",6,Poor,5.3,Rarely,Daily,Low,Average,1.42,9,5.4,4,FALSE,FALSE,35.25
+GD0553,Female,Mobile,19-24,MOBA,"Mobile Legends",2.3,Good,8.9,Often,Never,Low,Good,3.61,10,9.8,2,FALSE,FALSE,39.46
+GD0554,Male,PC,25-30,Strategy,"Age of Empires",4.2,Fair,5.9,Always,Sometimes,Low,Excellent,,2,8.9,3,FALSE,FALSE,18.36
+GD0555,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",4.6,Fair,6.1,Always,Rarely,Low,Average,3.24,2,7.3,5,TRUE,FALSE,70.56
+GD0556,Male,PC,19-24,Strategy,"Age of Empires",4.8,Fair,7,Often,Daily,Low,Poor,2.78,1,8.1,2,TRUE,FALSE,97.99
+GD0557,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",11.7,Poor,5.5,Always,Daily,Severe,Average,2.69,7,5.4,7,TRUE,FALSE,360.29
+GD0558,Male,PC,25-30,MOBA,"Dota 2",2.5,Good,7.6,Always,Daily,Low,Good,,4,8.8,1,FALSE,FALSE,0.43
+GD0559,Male,Mobile,31+,MOBA,"Mobile Legends",5.2,Poor,5.3,Rarely,Sometimes,Low,Excellent,,10,8.2,2,TRUE,FALSE,102.88
+GD0560,Male,Mobile,19-24,MOBA,"Mobile Legends",4.6,Poor,5.4,Rarely,Never,Low,Average,1.85,9,5.5,1,FALSE,FALSE,37.92
+GD0561,Male,Mobile,13-18,MOBA,"Mobile Legends",4,Fair,5.8,Always,Sometimes,Low,Excellent,3.29,,8.7,3,FALSE,FALSE,26.29
+GD0562,Female,Mobile,19-24,"Mobile Games","Clash of Clans",1.7,Good,8.7,Rarely,Daily,Low,Excellent,3.88,7,7.6,1,FALSE,FALSE,2.01
+GD0563,Male,PC,13-18,FPS,Valorant,7.6,"Very Poor",3.3,Always,Daily,Moderate,Poor,1.73,,6.9,3,FALSE,TRUE,42.16
+GD0564,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",4.5,Fair,6.9,Sometimes,Sometimes,Low,"Below Average",1.54,10,7.1,2,TRUE,FALSE,92.49
+GD0565,Other,PC,19-24,MMO,"World of Warcraft",4.6,Fair,6.3,Often,Never,Low,"Below Average",,6,6.8,4,FALSE,FALSE,134.52
+GD0566,Male,Multi-platform,13-18,Strategy,"Civilization VI",2.3,Good,7.3,Sometimes,Rarely,Low,Average,1.63,,9.8,1,FALSE,FALSE,35.89
+GD0567,Female,Mobile,25-30,MOBA,"Mobile Legends",5.3,Fair,6,Never,Daily,Low,"Below Average",,3,8.8,2,TRUE,FALSE,123.9
+GD0568,Male,PC,19-24,MOBA,"Dota 2",8,Fair,5.8,Rarely,Often,Severe,"Below Average",2.75,6,4.7,5,FALSE,TRUE,42.42
+GD0569,Male,PC,13-18,MOBA,"League of Legends",2.3,Good,8.2,Always,Sometimes,Low,"Below Average",2.99,,10.6,1,FALSE,FALSE,13.49
+GD0570,Male,PC,31+,MOBA,"Dota 2",3.9,Poor,5.1,Sometimes,Sometimes,Low,Excellent,,2,6.5,2,FALSE,FALSE,23.55
+GD0571,Female,Multi-platform,25-30,"Battle Royale",Warzone,7.8,Poor,4.7,Rarely,Rarely,Severe,Poor,,1,4,6,TRUE,TRUE,88.65
+GD0572,Male,PC,13-18,MMO,"World of Warcraft",8.4,"Very Poor",3.4,Always,Sometimes,High,Average,3.69,,7.9,3,FALSE,FALSE,76.72
+GD0573,Male,Multi-platform,19-24,Strategy,"Civilization VI",5.3,Poor,5.5,Sometimes,Sometimes,Low,Poor,2.34,6,8.5,4,TRUE,FALSE,140.81
+GD0574,Male,Multi-platform,19-24,"Battle Royale",Warzone,3.5,Fair,6.9,Often,Often,Low,"Below Average",,2,9.4,3,FALSE,FALSE,11.59
+GD0575,Male,Multi-platform,19-24,RPG,"Elden Ring",4.3,Poor,5.5,Often,Often,Low,Average,,1,6.4,1,FALSE,FALSE,6.68
+GD0576,Male,Multi-platform,19-24,RPG,Skyrim,6.5,Fair,5.7,Sometimes,Sometimes,High,Failing,1.76,7,6.2,4,TRUE,TRUE,132.29
+GD0577,Female,Multi-platform,19-24,RPG,Skyrim,1.3,Good,9,Never,Sometimes,Low,Excellent,3.45,10,11.3,1,FALSE,FALSE,25.35
+GD0578,Female,Multi-platform,13-18,"Battle Royale",Warzone,7.1,Poor,5.2,Sometimes,Often,Moderate,"Below Average",3.36,,4.5,5,FALSE,TRUE,86.64
+GD0579,Female,Mobile,19-24,"Mobile Games","Clash of Clans",2.7,Good,8.2,Always,Often,Low,Excellent,3.63,9,10,2,FALSE,FALSE,34.35
+GD0580,Male,PC,19-24,Strategy,"StarCraft II",5.9,Poor,5.1,Sometimes,Never,Low,Poor,2.78,7,5.7,2,TRUE,TRUE,57.6
+GD0581,Female,Multi-platform,13-18,"Battle Royale",Fortnite,6.4,Fair,6.2,Often,Daily,Moderate,"Below Average",1.23,,5.9,4,TRUE,TRUE,34.21
+GD0582,Female,Multi-platform,13-18,FPS,"Call of Duty",8.3,"Very Poor",3.7,Often,Rarely,Severe,Good,3.97,,4,6,TRUE,TRUE,40.05
+GD0583,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",9.5,Poor,4.6,Always,Rarely,Moderate,Average,3.66,,7,4,TRUE,TRUE,327.63
+GD0584,Female,Multi-platform,13-18,RPG,Skyrim,7.8,Fair,5.7,Never,Rarely,High,Average,2.75,,5.5,4,TRUE,FALSE,80.16
+GD0585,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",8.3,"Very Poor",3.8,Often,Never,Severe,Poor,1.36,4,7.9,5,FALSE,FALSE,76.85
+GD0586,Male,Multi-platform,13-18,RPG,Skyrim,1,Good,7.4,Often,Rarely,Low,Excellent,2.61,,7.6,1,FALSE,FALSE,4.9
+GD0587,Female,Multi-platform,19-24,RPG,Skyrim,8.4,"Very Poor",3.8,Sometimes,Often,Moderate,Poor,1.69,7,5.4,6,TRUE,TRUE,94.45
+GD0588,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",6.9,Poor,4.7,Always,Daily,Low,"Below Average",2.13,,8.2,4,FALSE,TRUE,11.92
+GD0589,Female,Multi-platform,19-24,"Battle Royale",Fortnite,8.4,Poor,5.2,Rarely,Rarely,High,Poor,,4,5.5,5,FALSE,TRUE,144.35
+GD0590,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",1.7,Good,7.1,Sometimes,Rarely,Low,Average,1.77,7,7.6,1,FALSE,FALSE,42.67
+GD0591,Female,PC,13-18,MMO,"World of Warcraft",6.3,Poor,5.2,Rarely,Daily,Moderate,Good,1.96,,6.5,3,TRUE,TRUE,29.37
+GD0592,Male,Multi-platform,19-24,RPG,"Elden Ring",5.8,Poor,5.4,Never,Sometimes,Low,"Below Average",1.5,3,5.1,4,TRUE,FALSE,125.21
+GD0593,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",1.5,Good,9,Always,Sometimes,Low,Good,3.35,,8,1,FALSE,FALSE,4.91
+GD0594,Male,PC,19-24,Strategy,"StarCraft II",8.6,Poor,5,Sometimes,Daily,Severe,"Below Average",2.71,3,6,5,TRUE,TRUE,314.32
+GD0595,Female,PC,19-24,MMO,"World of Warcraft",6.5,Fair,6.9,Never,Often,Moderate,"Below Average",1.4,9,5.9,3,TRUE,TRUE,119.21
+GD0596,Female,Mobile,25-30,MOBA,"Mobile Legends",3.9,Fair,5.6,Rarely,Never,Low,"Below Average",,2,8.8,2,FALSE,FALSE,37.27
+GD0597,Male,Mobile,19-24,"Mobile Games","Candy Crush",6,Fair,7,Never,Daily,Moderate,Average,3.21,7,8.3,4,TRUE,FALSE,114.69
+GD0598,Female,Multi-platform,13-18,Strategy,"Civilization VI",9.3,Poor,4.7,Often,Daily,Severe,"Below Average",3.22,,6.9,5,TRUE,FALSE,69.4
+GD0599,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",7.5,"Very Poor",3.2,Sometimes,Rarely,Severe,Failing,1.89,1,6.9,7,TRUE,TRUE,128.77
+GD0600,Female,Multi-platform,19-24,"Battle Royale",Fortnite,5.8,Poor,5.3,Often,Never,Low,Average,3.36,3,6.9,4,FALSE,TRUE,88.08
+GD0601,Male,Multi-platform,19-24,RPG,"Elden Ring",1.1,Good,8.4,Rarely,Rarely,Low,Excellent,2.65,10,9.4,1,FALSE,FALSE,44.51
+GD0602,Male,Multi-platform,13-18,Strategy,"Civilization VI",4.2,Fair,5.8,Always,Daily,Low,"Below Average",2.21,,6.6,2,FALSE,FALSE,34.04
+GD0603,Female,Multi-platform,13-18,Strategy,"Civilization VI",7.4,"Very Poor",3.4,Always,Often,Moderate,"Below Average",2.18,,7.1,4,TRUE,TRUE,87.18
+GD0604,Male,Mobile,19-24,"Mobile Games","Candy Crush",4.8,Fair,6.9,Often,Daily,Low,"Below Average",2.28,5,6.4,4,TRUE,FALSE,29.12
+GD0605,Male,PC,19-24,MOBA,"League of Legends",7.4,Fair,5.8,Never,Rarely,Moderate,Good,3.54,5,7.1,5,TRUE,TRUE,130.69
+GD0606,Female,Multi-platform,19-24,"Battle Royale",Warzone,11.4,Poor,4.3,Never,Daily,Severe,Poor,1.95,5,4.5,6,FALSE,TRUE,90.88
+GD0607,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",13.2,Poor,4.2,Rarely,Rarely,High,Poor,3.63,,5.5,8,FALSE,FALSE,475.36
+GD0608,Male,PC,13-18,MMO,"World of Warcraft",4.6,Fair,6.5,Always,Daily,Low,Good,1.25,,6.5,5,TRUE,FALSE,70.11
+GD0609,Male,Multi-platform,13-18,"Battle Royale",PUBG,8.7,Poor,4.7,Often,Never,Moderate,Average,3.48,,6.6,6,TRUE,FALSE,119.98
+GD0610,Female,Multi-platform,25-30,"Battle Royale","Apex Legends",4.8,Fair,6.7,Sometimes,Rarely,Low,"Below Average",,2,8.1,3,TRUE,FALSE,75.94
+GD0611,Male,Multi-platform,19-24,FPS,"Call of Duty",6.4,Poor,5.4,Never,Never,Low,Average,1.28,6,5.9,2,TRUE,TRUE,80.75
+GD0612,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.4,Fair,6,Always,Sometimes,Low,Excellent,2.81,6,6.7,3,TRUE,FALSE,98.4
+GD0613,Male,Multi-platform,19-24,"Battle Royale",PUBG,2.6,Good,8.6,Always,Daily,Low,Poor,2.48,1,8.2,2,FALSE,FALSE,19.48
+GD0614,Male,Mobile,13-18,MOBA,"Mobile Legends",1.3,Good,8.4,Rarely,Never,Low,Average,3.15,,11.1,1,FALSE,FALSE,1.18
+GD0615,Female,Multi-platform,13-18,FPS,Overwatch,3.7,Poor,5,Often,Sometimes,Low,"Below Average",3.55,,9.4,2,FALSE,FALSE,46.28
+GD0616,Female,Multi-platform,13-18,"Battle Royale",Warzone,4.7,Fair,6,Always,Often,Low,Average,2.82,,6.6,2,TRUE,FALSE,127.9
+GD0617,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",8.4,Poor,4.2,Often,Never,Moderate,Failing,,8,5.5,4,TRUE,TRUE,111.33
+GD0618,Male,Mobile,25-30,MOBA,"Mobile Legends",7.2,"Very Poor",4,Sometimes,Sometimes,High,"Below Average",,3,6.3,5,FALSE,TRUE,74.44
+GD0619,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",6.4,Fair,5.6,Never,Often,Moderate,Excellent,2.43,5,7.6,4,TRUE,TRUE,112.63
+GD0620,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",2.6,Good,7.8,Always,Rarely,Low,Good,2.19,,6.6,1,FALSE,FALSE,32.91
+GD0621,Male,Multi-platform,25-30,FPS,Overwatch,3.4,Good,8.4,Never,Sometimes,Low,Excellent,,2,8.5,1,FALSE,FALSE,29.73
+GD0622,Female,Mobile,13-18,"Mobile Games","Clash of Clans",7,Poor,4.7,Often,Daily,Low,Poor,3.52,,5.9,6,TRUE,FALSE,54.93
+GD0623,Female,Multi-platform,25-30,FPS,"Call of Duty",1.6,Good,7.5,Never,Never,Low,Average,,9,9,2,FALSE,FALSE,24.49
+GD0624,Male,PC,19-24,MOBA,"Dota 2",7.7,"Very Poor",3.5,Sometimes,Often,Moderate,Average,1.1,6,7.8,6,TRUE,FALSE,33.95
+GD0625,Male,PC,19-24,MOBA,"Dota 2",4.8,Poor,5.5,Always,Sometimes,Low,Average,2.5,2,8.8,4,TRUE,FALSE,94.88
+GD0626,Male,PC,31+,Strategy,"StarCraft II",6.9,Poor,5.2,Often,Never,High,Failing,,8,7.8,5,TRUE,FALSE,105.61
+GD0627,Female,PC,19-24,Strategy,"Age of Empires",4.8,Fair,6,Rarely,Often,Low,Good,1.74,8,7.5,4,TRUE,FALSE,19.11
+GD0628,Male,Multi-platform,13-18,MMO,"Final Fantasy XIV",4.5,Fair,5.6,Sometimes,Often,Low,"Below Average",2.23,,7,3,FALSE,FALSE,77.9
+GD0629,Female,Multi-platform,19-24,FPS,Overwatch,3.6,Poor,5.4,Often,Never,Low,Good,3.09,3,6.1,3,FALSE,FALSE,40.97
+GD0630,Female,Multi-platform,25-30,"Battle Royale","Apex Legends",12,Poor,5.2,Always,Sometimes,Severe,Average,,4,4.9,9,TRUE,TRUE,348.26
+GD0631,Female,PC,13-18,FPS,CS:GO,5.4,Fair,5.8,Always,Daily,Low,Poor,2.81,,8.3,2,FALSE,FALSE,34.87
+GD0632,Male,Mobile,19-24,"Mobile Games","Clash of Clans",7,"Very Poor",3.8,Never,Often,High,Average,,9,4.8,5,TRUE,FALSE,128.77
+GD0633,Male,PC,25-30,Strategy,"Age of Empires",6.2,Fair,5.9,Often,Daily,Moderate,"Below Average",,8,8,6,FALSE,TRUE,30.42
+GD0634,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",5.7,Fair,5.7,Sometimes,Rarely,Moderate,Good,,1,6.5,3,TRUE,FALSE,76.37
+GD0635,Female,Mobile,13-18,MOBA,"Mobile Legends",6.2,Fair,5.8,Sometimes,Rarely,Moderate,Good,3.53,,5.4,4,FALSE,TRUE,57.17
+GD0636,Male,Multi-platform,19-24,RPG,"Elden Ring",9.6,"Very Poor",3.6,Sometimes,Sometimes,High,Good,2.57,8,7,7,FALSE,TRUE,451.73
+GD0637,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",11.1,Fair,5.9,Rarely,Sometimes,High,Excellent,1.58,9,3.8,8,FALSE,TRUE,80.87
+GD0638,Male,Mobile,19-24,"Mobile Games","Clash of Clans",7.8,Fair,5.9,Often,Daily,High,Poor,,6,7,3,TRUE,TRUE,143.11
+GD0639,Male,Multi-platform,19-24,"Battle Royale",PUBG,6,Poor,5.5,Often,Never,Moderate,Failing,3.88,8,6,6,TRUE,TRUE,33.26
+GD0640,Female,PC,13-18,MOBA,"Dota 2",3.1,Fair,7,Often,Daily,Low,Excellent,2.8,,8.4,1,FALSE,FALSE,37.55
+GD0641,Female,Multi-platform,25-30,Strategy,"Civilization VI",7.2,Poor,4.4,Always,Never,High,"Below Average",,1,7.3,4,TRUE,FALSE,135.46
+GD0642,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",6.9,Fair,6,Rarely,Sometimes,Moderate,"Below Average",3.05,8,7.7,4,TRUE,TRUE,140.64
+GD0643,Male,PC,19-24,FPS,Valorant,2.5,Good,8.1,Always,Never,Low,"Below Average",3.54,2,8.7,3,FALSE,FALSE,28.41
+GD0644,Female,Multi-platform,25-30,RPG,Skyrim,5.9,Fair,6.6,Rarely,Rarely,Moderate,Excellent,,3,5.6,3,TRUE,FALSE,97.31
+GD0645,Male,Multi-platform,25-30,RPG,Skyrim,5.9,Fair,6.3,Never,Rarely,Low,Good,,6,7.3,3,FALSE,FALSE,112.85
+GD0646,Male,PC,19-24,Strategy,"Age of Empires",4.8,Fair,5.9,Often,Rarely,Low,Good,1.51,9,5.5,4,TRUE,FALSE,115.72
+GD0647,Female,PC,13-18,MOBA,"Dota 2",4.6,Fair,6,Rarely,Rarely,Low,Average,2.23,,8.1,4,TRUE,FALSE,20.94
+GD0648,Female,PC,13-18,Strategy,"StarCraft II",5.2,Fair,6.3,Often,Sometimes,Low,Good,2.22,,8.9,2,TRUE,FALSE,10.52
+GD0649,Female,Multi-platform,25-30,MMO,"Final Fantasy XIV",5.2,Fair,6.5,Often,Sometimes,Low,Good,,9,8.5,4,TRUE,FALSE,126.54
+GD0650,Male,PC,19-24,MMO,"World of Warcraft",5.6,Fair,6.3,Rarely,Often,Moderate,Average,3.42,2,5.9,4,TRUE,FALSE,130
+GD0651,Female,PC,13-18,MMO,"World of Warcraft",5,Fair,5.9,Never,Sometimes,Low,Poor,2.26,,5.5,3,TRUE,FALSE,145.08
+GD0652,Male,PC,19-24,MOBA,"League of Legends",7,Poor,4.8,Often,Rarely,Moderate,Poor,3.57,4,8.2,3,TRUE,TRUE,142.25
+GD0653,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",1.7,Good,8.7,Often,Often,Low,Excellent,2.23,10,10.4,2,FALSE,FALSE,36.8
+GD0654,Female,Multi-platform,19-24,"Battle Royale",Warzone,6.4,Poor,5.4,Rarely,Never,Moderate,Average,3.24,4,6.1,2,TRUE,FALSE,145.93
+GD0655,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",3.3,Good,8.3,Sometimes,Daily,Low,Excellent,2.74,3,9.1,1,FALSE,FALSE,13.68
+GD0656,Female,PC,13-18,Strategy,"StarCraft II",9.3,"Very Poor",3.1,Always,Sometimes,Severe,"Below Average",1.82,,3.7,6,FALSE,TRUE,90.17
+GD0657,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",6.3,Fair,6.2,Rarely,Rarely,Low,Average,2.54,5,8.5,6,FALSE,TRUE,80.72
+GD0658,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",13.4,"Very Poor",3.9,Never,Daily,High,"Below Average",,3,5.2,9,TRUE,FALSE,64.52
+GD0659,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",6.6,Poor,5.4,Often,Often,Low,Poor,2.34,,5.6,5,TRUE,TRUE,80.91
+GD0660,Female,PC,19-24,MMO,"World of Warcraft",5.3,Fair,6.8,Never,Daily,Low,Poor,3.93,2,9,2,TRUE,FALSE,128.13
+GD0661,Male,Multi-platform,13-18,RPG,"Elden Ring",7.4,Poor,5.2,Sometimes,Often,High,"Below Average",3.68,,5.8,3,TRUE,TRUE,67.44
+GD0662,Female,PC,19-24,Strategy,"Age of Empires",1.8,Good,8,Rarely,Often,Low,Excellent,3.17,10,8.9,2,FALSE,FALSE,40.78
+GD0663,Male,Multi-platform,19-24,RPG,"Elden Ring",4.4,Fair,6.3,Rarely,Daily,Low,Good,1.51,2,7.6,4,FALSE,FALSE,38.47
+GD0664,Male,PC,13-18,FPS,Valorant,4.5,Poor,5.1,Never,Sometimes,Low,Average,3.45,,7,4,FALSE,FALSE,104.97
+GD0665,Female,Multi-platform,31+,"Battle Royale",Fortnite,3.7,Fair,6.5,Never,Sometimes,Low,Average,,10,9.3,3,FALSE,FALSE,23.14
+GD0666,Female,Multi-platform,13-18,RPG,"Elden Ring",1.5,Good,7.1,Rarely,Rarely,Low,Good,1.91,,8.1,1,FALSE,FALSE,0.1
+GD0667,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",6.7,"Very Poor",3.8,Sometimes,Daily,High,"Below Average",3.61,5,6.6,2,TRUE,FALSE,117.79
+GD0668,Male,PC,13-18,MMO,"World of Warcraft",6.5,Poor,4.7,Always,Sometimes,Moderate,Good,3.57,,5,2,TRUE,FALSE,109.59
+GD0669,Male,Multi-platform,31+,RPG,Skyrim,1.4,Good,8.8,Always,Never,Low,Poor,,1,10.5,1,FALSE,FALSE,24.22
+GD0670,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",8.3,Fair,6,Always,Rarely,Moderate,Poor,1.19,,5.5,6,FALSE,FALSE,37.2
+GD0671,Male,PC,19-24,Strategy,"Age of Empires",9.3,"Very Poor",4,Never,Daily,Severe,Poor,,8,6.6,6,TRUE,FALSE,170.31
+GD0672,Male,Multi-platform,19-24,RPG,Skyrim,4,Fair,6.9,Always,Daily,Low,Excellent,3.33,3,9.1,1,FALSE,FALSE,29.01
+GD0673,Male,PC,13-18,MMO,"World of Warcraft",8,Poor,5.4,Often,Rarely,High,Poor,2.83,,6.3,5,TRUE,TRUE,80.45
+GD0674,Male,Multi-platform,25-30,Strategy,"Civilization VI",6,Fair,6,Always,Never,Moderate,Poor,,7,6.2,4,TRUE,TRUE,24.29
+GD0675,Male,PC,31+,MMO,"World of Warcraft",4.2,Fair,5.9,Sometimes,Rarely,Low,Excellent,,7,6.2,2,FALSE,FALSE,17.42
+GD0676,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",4,Fair,6.8,Sometimes,Sometimes,Low,Good,1.44,,7.8,2,FALSE,FALSE,15.49
+GD0677,Female,Mobile,13-18,"Mobile Games","PUBG Mobile",6.5,Fair,5.6,Always,Never,Moderate,"Below Average",1.86,,7.1,4,TRUE,TRUE,83.36
+GD0678,Female,Multi-platform,13-18,RPG,"Cyberpunk 2077",8,"Very Poor",3.2,Often,Daily,High,"Below Average",3.11,,5.9,6,TRUE,FALSE,41.3
+GD0679,Male,Multi-platform,13-18,Strategy,"Civilization VI",3.5,Good,8.8,Sometimes,Daily,Low,"Below Average",2.01,,7.5,1,FALSE,FALSE,24.33
+GD0680,Female,Mobile,13-18,"Mobile Games","Clash of Clans",6.4,Fair,5.7,Often,Daily,Low,Average,1.46,,5.1,5,FALSE,TRUE,84.7
+GD0681,Male,PC,19-24,FPS,Valorant,8.2,"Very Poor",4,Sometimes,Often,Moderate,"Below Average",1.1,4,5.2,4,FALSE,TRUE,41.81
+GD0682,Male,PC,13-18,MOBA,"Dota 2",0.7,Good,7.5,Often,Sometimes,Low,Good,3.68,,10.6,1,FALSE,FALSE,15.58
+GD0683,Female,Multi-platform,13-18,RPG,Skyrim,3.7,Fair,5.6,Often,Often,Low,Average,1.27,,9.7,3,FALSE,FALSE,23.73
+GD0684,Female,PC,19-24,MOBA,"Dota 2",2,Good,7.9,Always,Rarely,Low,Average,3.82,4,10.4,2,FALSE,FALSE,10.61
+GD0685,Female,Multi-platform,19-24,FPS,"Call of Duty",9.7,Fair,5.7,Always,Sometimes,High,"Below Average",,3,3.2,6,TRUE,FALSE,118.63
+GD0686,Female,Mobile,13-18,"Mobile Games","Clash of Clans",4.3,Poor,5,Never,Rarely,Low,Poor,3.12,,7.6,4,FALSE,FALSE,8.15
+GD0687,Male,PC,19-24,FPS,CS:GO,3.5,Good,8.9,Always,Daily,Low,Average,2.17,8,8.1,1,FALSE,FALSE,44.2
+GD0688,Female,PC,19-24,FPS,Valorant,12.3,"Very Poor",3.5,Sometimes,Never,Severe,Poor,2.55,2,4.4,9,FALSE,TRUE,413.29
+GD0689,Male,PC,13-18,FPS,CS:GO,3.8,Poor,5,Rarely,Sometimes,Low,Good,1.68,,9.2,2,FALSE,FALSE,34.33
+GD0690,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",10.9,Poor,5.3,Never,Often,Severe,"Below Average",1.71,,5.9,9,FALSE,TRUE,52.19
+GD0691,Male,PC,25-30,FPS,Valorant,4.8,Fair,6.3,Rarely,Sometimes,Low,Average,,10,9.2,4,TRUE,FALSE,107.55
+GD0692,Male,Multi-platform,19-24,RPG,Skyrim,3.8,Poor,5.5,Rarely,Sometimes,Low,Failing,,1,7.5,3,FALSE,FALSE,32.76
+GD0693,Male,PC,19-24,FPS,CS:GO,12.5,Fair,5.7,Rarely,Daily,Moderate,Average,1.55,3,2.4,9,TRUE,TRUE,376.05
+GD0694,Other,Multi-platform,19-24,"Battle Royale",Warzone,4.4,Fair,6.6,Often,Daily,Low,"Below Average",1.66,9,6.4,2,FALSE,FALSE,17.3
+GD0695,Male,PC,13-18,Strategy,"Age of Empires",11.4,"Very Poor",3.3,Often,Rarely,High,Poor,1.49,,3.9,7,TRUE,FALSE,233.11
+GD0696,Male,Multi-platform,25-30,RPG,"Elden Ring",8.9,Poor,4.4,Never,Sometimes,Moderate,Poor,,9,5.8,6,TRUE,FALSE,258.94
+GD0697,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",2.3,Good,8.5,Never,Often,Low,Good,,5,9.5,1,FALSE,FALSE,6.27
+GD0698,Other,PC,13-18,MMO,"World of Warcraft",4.7,Fair,6.2,Never,Daily,Low,Excellent,3.71,,9.2,2,FALSE,FALSE,24.44
+GD0699,Female,Multi-platform,13-18,Strategy,"Civilization VI",5,Fair,6.4,Always,Often,Low,Good,1.54,,5.8,2,TRUE,FALSE,10.19
+GD0700,Male,PC,13-18,FPS,CS:GO,3,Good,8.4,Sometimes,Often,Low,Average,1.99,,9.1,1,FALSE,FALSE,30.68
+GD0701,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",7.1,Poor,5,Never,Sometimes,Low,Failing,2.91,,6.4,6,TRUE,TRUE,49.26
+GD0702,Female,PC,19-24,MOBA,"Dota 2",8.5,"Very Poor",3.3,Sometimes,Never,Severe,Excellent,1.77,8,4.7,5,TRUE,TRUE,354.28
+GD0703,Female,Mobile,25-30,MOBA,"Mobile Legends",4.8,Fair,6,Rarely,Sometimes,Low,"Below Average",,3,9.2,2,TRUE,FALSE,35.97
+GD0704,Male,Multi-platform,25-30,RPG,"Cyberpunk 2077",1.7,Good,7.7,Rarely,Rarely,Low,Excellent,,6,7,1,FALSE,FALSE,15.3
+GD0705,Male,Mobile,19-24,MOBA,"Mobile Legends",8.3,Fair,5.9,Often,Often,Low,Excellent,1.09,10,4,6,FALSE,FALSE,69.71
+GD0706,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",12.1,Fair,5.6,Rarely,Rarely,Severe,"Below Average",1.75,,3,8,TRUE,TRUE,380.39
+GD0707,Female,Multi-platform,13-18,"Battle Royale",Warzone,5.8,Fair,6.8,Always,Rarely,Moderate,"Below Average",2.7,,5.2,3,TRUE,FALSE,123.39
+GD0708,Female,Mobile,13-18,"Mobile Games","PUBG Mobile",8.5,"Very Poor",3.9,Always,Daily,Severe,Poor,1.42,,3.6,8,FALSE,FALSE,200.6
+GD0709,Male,Multi-platform,19-24,"Battle Royale",Warzone,3.9,Poor,5.3,Never,Daily,Low,Good,1.56,1,7.9,1,FALSE,FALSE,27.46
+GD0710,Female,Mobile,19-24,MOBA,"Mobile Legends",3.7,Poor,5.5,Always,Daily,Low,Good,,9,7.7,1,FALSE,FALSE,30.53
+GD0711,Male,PC,19-24,MOBA,"Dota 2",10.4,Fair,5.7,Never,Never,Severe,Failing,2.21,10,3.9,6,TRUE,TRUE,380.83
+GD0712,Female,Multi-platform,25-30,RPG,"Cyberpunk 2077",6.4,Fair,6.5,Sometimes,Daily,Moderate,"Below Average",,1,8.2,4,FALSE,TRUE,86.39
+GD0713,Male,Multi-platform,19-24,RPG,"Elden Ring",10,Poor,5.4,Rarely,Daily,High,Failing,3.7,9,5.8,5,TRUE,FALSE,270.84
+GD0714,Male,PC,19-24,FPS,Valorant,11.1,Fair,5.6,Rarely,Sometimes,Severe,Poor,1.98,6,5.8,6,FALSE,TRUE,396
+GD0715,Male,Mobile,19-24,"Mobile Games","Candy Crush",6.7,Poor,4.9,Often,Rarely,Moderate,Good,3.55,4,6.4,5,TRUE,TRUE,56.05
+GD0716,Male,PC,19-24,FPS,CS:GO,5.9,Fair,6.8,Rarely,Rarely,Low,Average,,3,6.6,4,FALSE,FALSE,37.44
+GD0717,Male,Multi-platform,25-30,RPG,"Cyberpunk 2077",3,Good,8.3,Always,Sometimes,Low,Good,,6,7.4,1,FALSE,FALSE,13.32
+GD0718,Male,PC,13-18,MOBA,"Dota 2",6.6,Poor,4.8,Never,Daily,High,Average,3.92,,6.8,3,TRUE,FALSE,17
+GD0719,Male,Multi-platform,19-24,FPS,Overwatch,11.7,Fair,6,Never,Often,High,Poor,3.05,5,5.1,7,TRUE,TRUE,303.54
+GD0720,Female,Multi-platform,19-24,RPG,"Elden Ring",13,Poor,5.2,Sometimes,Daily,Severe,"Below Average",,7,5.1,8,TRUE,FALSE,239.25
+GD0721,Male,Mobile,13-18,"Mobile Games","Candy Crush",4.3,Fair,5.6,Rarely,Often,Low,Average,2.63,,6.6,2,FALSE,FALSE,27.9
+GD0722,Male,PC,19-24,MOBA,"Dota 2",4.8,Fair,7,Often,Never,Low,Poor,2.42,3,6,2,TRUE,FALSE,110.49
+GD0723,Male,Multi-platform,19-24,Strategy,"Civilization VI",3.9,Fair,6.7,Always,Never,Low,Poor,,8,7.2,2,FALSE,FALSE,29.56
+GD0724,Female,Mobile,13-18,"Mobile Games","Clash of Clans",5.1,Fair,7,Often,Sometimes,Low,"Below Average",3.96,,5.8,1,TRUE,FALSE,97.92
+GD0725,Male,Mobile,19-24,MOBA,"Mobile Legends",7.8,Poor,4.1,Sometimes,Daily,Severe,Poor,1.74,4,7.2,6,FALSE,TRUE,106.73
+GD0726,Female,Multi-platform,13-18,"Battle Royale",Fortnite,2.1,Good,8.6,Sometimes,Daily,Low,Average,1.86,,9.3,1,FALSE,FALSE,49.39
+GD0727,Female,Multi-platform,13-18,"Mobile Games","Genshin Impact",6.2,Fair,5.7,Sometimes,Often,Moderate,"Below Average",2.22,,5.2,4,TRUE,TRUE,37
+GD0728,Male,Mobile,13-18,MOBA,"Mobile Legends",6.3,Fair,6.6,Often,Never,Moderate,Average,3.01,,6.9,2,TRUE,TRUE,147.26
+GD0729,Male,PC,19-24,FPS,Valorant,8.4,Poor,5.1,Never,Rarely,Severe,"Below Average",2.38,10,5.8,6,FALSE,TRUE,73.12
+GD0730,Male,PC,19-24,Strategy,"Age of Empires",10.3,Fair,5.8,Sometimes,Rarely,Severe,Poor,2.9,10,4.1,6,TRUE,TRUE,446.66
+GD0731,Female,Multi-platform,13-18,"Battle Royale",Fortnite,3.2,Good,7.2,Never,Sometimes,Low,Poor,3.6,,7.9,1,FALSE,FALSE,12.37
+GD0732,Female,PC,25-30,MOBA,"League of Legends",8.6,Poor,4.2,Rarely,Sometimes,Severe,Average,,2,5.3,6,FALSE,TRUE,309.02
+GD0733,Female,Multi-platform,19-24,"Battle Royale",Fortnite,4.3,Poor,5.5,Often,Sometimes,Low,"Below Average",1.96,1,8.2,3,FALSE,FALSE,18.74
+GD0734,Male,Multi-platform,19-24,"Battle Royale",Warzone,5.4,Fair,6.7,Often,Never,Low,Average,,9,7.2,3,TRUE,FALSE,101.27
+GD0735,Female,Multi-platform,13-18,FPS,Overwatch,4.4,Fair,6.1,Never,Sometimes,Low,Poor,1.03,,9.5,2,FALSE,FALSE,35.72
+GD0736,Male,Multi-platform,13-18,"Battle Royale",Fortnite,11.4,Poor,4.6,Sometimes,Often,High,"Below Average",1.61,,5.1,8,FALSE,TRUE,151.46
+GD0737,Male,Multi-platform,13-18,RPG,Skyrim,8.6,Poor,4.9,Never,Often,Severe,Poor,2.95,,5.6,5,TRUE,TRUE,123.19
+GD0738,Female,Multi-platform,13-18,Strategy,"Civilization VI",7,"Very Poor",4,Rarely,Often,Moderate,Failing,1.93,,8.4,4,TRUE,TRUE,65.22
+GD0739,Male,PC,25-30,MMO,"World of Warcraft",5.8,Fair,6.6,Rarely,Rarely,Moderate,Poor,,1,7.7,4,FALSE,TRUE,27.31
+GD0740,Male,Multi-platform,13-18,Strategy,"Civilization VI",6.2,Poor,5.4,Rarely,Never,Low,Average,3.01,,7,5,TRUE,FALSE,115.5
+GD0741,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",6.3,Fair,6.2,Often,Sometimes,Low,Good,2.75,,7.9,3,TRUE,TRUE,35.84
+GD0742,Male,Multi-platform,19-24,FPS,Overwatch,13.5,Poor,4.3,Never,Often,High,Poor,1.93,10,2,10,TRUE,FALSE,52.68
+GD0743,Male,Multi-platform,25-30,"Mobile Games","Genshin Impact",7.4,"Very Poor",3,Often,Daily,High,Poor,,3,7.7,4,TRUE,FALSE,75.3
+GD0744,Male,PC,19-24,MOBA,"Dota 2",1.2,Good,8.2,Rarely,Rarely,Low,Average,1.86,10,9.7,1,FALSE,FALSE,39.28
+GD0745,Male,PC,13-18,Strategy,"Age of Empires",2.3,Good,7.4,Often,Often,Low,Excellent,1.76,,10.2,2,FALSE,FALSE,35.69
+GD0746,Female,PC,19-24,MOBA,"League of Legends",4.6,Fair,6,Never,Sometimes,Low,Excellent,1.71,2,7.5,3,TRUE,FALSE,46.89
+GD0747,Male,Mobile,25-30,MOBA,"Mobile Legends",0.7,Good,7.3,Sometimes,Daily,Low,"Below Average",,4,8.5,1,FALSE,FALSE,46.38
+GD0748,Male,Mobile,13-18,"Mobile Games","Candy Crush",0.6,Good,8.1,Often,Daily,Low,Good,1.46,,10.8,1,FALSE,FALSE,36.92
+GD0749,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",4.8,Fair,6.8,Often,Rarely,Low,Average,3.46,6,8.4,3,TRUE,FALSE,47.78
+GD0750,Male,PC,19-24,MMO,"World of Warcraft",5.5,Fair,6.3,Never,Rarely,Low,Poor,,6,6.6,4,TRUE,TRUE,51.25
+GD0751,Male,Multi-platform,13-18,RPG,Skyrim,6.3,Fair,5.6,Never,Often,Moderate,Good,1.02,,5.8,4,TRUE,FALSE,10.47
+GD0752,Male,PC,19-24,Strategy,"StarCraft II",11.9,Poor,4.2,Always,Never,Severe,Poor,3.34,3,4.1,8,TRUE,TRUE,374.32
+GD0753,Male,Multi-platform,19-24,RPG,"Elden Ring",4.1,Poor,5.2,Always,Often,Low,Good,2.63,9,8.7,3,FALSE,FALSE,45.63
+GD0754,Female,Multi-platform,19-24,FPS,"Call of Duty",0.8,Good,7.4,Sometimes,Sometimes,Low,Good,1.43,2,8.8,1,FALSE,FALSE,35.12
+GD0755,Female,PC,13-18,Strategy,"StarCraft II",3.7,Poor,5.5,Rarely,Daily,Low,Average,1.86,,6.3,1,FALSE,FALSE,22.33
+GD0756,Male,PC,19-24,MOBA,"League of Legends",11,"Very Poor",3.4,Always,Sometimes,Severe,Poor,,6,4.5,7,TRUE,TRUE,144.47
+GD0757,Male,PC,25-30,FPS,Valorant,1.5,Good,9,Sometimes,Often,Low,Average,,3,10.4,1,FALSE,FALSE,10.08
+GD0758,Male,Mobile,13-18,"Mobile Games","Clash of Clans",6.6,"Very Poor",3.7,Always,Rarely,High,"Below Average",1.5,,5.5,6,TRUE,TRUE,29.91
+GD0759,Female,Multi-platform,13-18,RPG,Skyrim,5.9,Fair,6.6,Always,Sometimes,Moderate,"Below Average",1.77,,5.9,3,TRUE,TRUE,19.38
+GD0760,Female,PC,31+,MOBA,"League of Legends",5.5,Fair,6.1,Never,Never,Moderate,"Below Average",,5,8.1,3,FALSE,FALSE,82.37
+GD0761,Male,PC,13-18,MOBA,"League of Legends",11.4,"Very Poor",3,Always,Sometimes,Severe,"Below Average",3.91,,5.6,7,FALSE,TRUE,73.87
+GD0762,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",2.7,Good,8.6,Often,Often,Low,Excellent,3.85,,6.9,1,FALSE,FALSE,42.45
+GD0763,Male,PC,19-24,FPS,Valorant,5.5,Fair,6,Often,Never,Low,Average,1.06,1,8.8,3,TRUE,FALSE,91.34
+GD0764,Male,Mobile,13-18,MOBA,"Mobile Legends",7.3,Poor,4.5,Never,Daily,High,Average,2.89,,4.9,5,TRUE,TRUE,115.77
+GD0765,Male,PC,19-24,MMO,"World of Warcraft",7.7,"Very Poor",3.2,Often,Sometimes,High,Failing,,8,5.7,3,TRUE,TRUE,30.64
+GD0766,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",8.3,Poor,5.5,Always,Sometimes,Severe,Average,1.44,10,4.4,5,FALSE,TRUE,10.32
+GD0767,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",9.5,Poor,4.6,Often,Daily,High,"Below Average",3.65,1,3.7,6,FALSE,TRUE,336.84
+GD0768,Female,Multi-platform,19-24,"Battle Royale",PUBG,10,Poor,5.3,Never,Never,High,"Below Average",2.71,7,6.9,5,FALSE,TRUE,386.2
+GD0769,Male,Multi-platform,25-30,"Battle Royale",Fortnite,2.8,Good,7.3,Often,Never,Low,Average,,7,9.3,1,FALSE,FALSE,16.42
+GD0770,Male,PC,19-24,MOBA,"League of Legends",8.6,"Very Poor",4,Sometimes,Rarely,Severe,Poor,2.67,4,6.9,5,TRUE,TRUE,471.04
+GD0771,Female,PC,13-18,Strategy,"StarCraft II",4.9,Poor,5.1,Always,Often,Low,Average,3.44,,9.2,3,TRUE,FALSE,89.56
+GD0772,Male,Multi-platform,13-18,RPG,Skyrim,3.4,Good,8.8,Sometimes,Never,Low,Good,2.86,,8.5,1,FALSE,FALSE,13.73
+GD0773,Male,PC,19-24,FPS,Valorant,2.2,Good,8.9,Always,Daily,Low,Good,1.03,10,9,1,FALSE,FALSE,38.09
+GD0774,Female,Multi-platform,19-24,RPG,"Elden Ring",4.2,Fair,6.1,Often,Sometimes,Low,"Below Average",2.77,2,7.8,3,FALSE,FALSE,22.92
+GD0775,Male,PC,13-18,Strategy,"Age of Empires",5,Fair,6.4,Often,Sometimes,Low,"Below Average",2.76,,5.7,3,FALSE,FALSE,130.46
+GD0776,Other,PC,19-24,Strategy,"StarCraft II",7.9,Poor,5.1,Rarely,Sometimes,Moderate,Poor,1.63,6,5.8,4,FALSE,FALSE,70.68
+GD0777,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",10.7,"Very Poor",3.7,Often,Sometimes,High,Average,1.13,6,5.7,8,TRUE,TRUE,394.92
+GD0778,Male,Multi-platform,25-30,"Battle Royale",Fortnite,8.6,Poor,5.1,Often,Daily,High,"Below Average",,9,6.6,6,FALSE,TRUE,141.47
+GD0779,Female,PC,25-30,MOBA,"League of Legends",8.8,Poor,4.8,Rarely,Sometimes,High,Failing,,5,7.4,6,FALSE,TRUE,442.42
+GD0780,Male,Multi-platform,19-24,"Battle Royale",Fortnite,3.4,Good,7.5,Sometimes,Never,Low,Good,,6,8.9,1,FALSE,FALSE,36.34
+GD0781,Female,PC,19-24,FPS,Valorant,6.3,Fair,6.1,Never,Rarely,Moderate,Poor,1.67,4,5.1,2,TRUE,TRUE,120.62
+GD0782,Male,PC,13-18,FPS,Valorant,2.1,Good,7.4,Never,Sometimes,Low,Excellent,1.79,,10.6,2,FALSE,FALSE,39.9
+GD0783,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",4.6,Poor,5.1,Never,Sometimes,Low,"Below Average",1.44,,6.1,3,FALSE,FALSE,15.54
+GD0784,Female,Mobile,25-30,"Mobile Games","Clash of Clans",9.8,Poor,5.2,Always,Often,Severe,Poor,,7,3.2,6,FALSE,FALSE,63.25
+GD0785,Male,Multi-platform,19-24,"Battle Royale",Fortnite,3,Good,8.1,Never,Rarely,Low,Excellent,3.26,1,9.7,1,FALSE,FALSE,34.88
+GD0786,Female,Mobile,13-18,"Mobile Games","Candy Crush",2.9,Good,8.7,Always,Sometimes,Low,Excellent,1.86,,9.2,1,FALSE,FALSE,0.78
+GD0787,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",5.8,Fair,6.6,Often,Sometimes,Low,Good,1.45,,7.6,4,FALSE,FALSE,10.87
+GD0788,Male,Multi-platform,19-24,RPG,"Elden Ring",5.7,Fair,6.8,Always,Often,Low,Good,3.89,6,6.1,3,FALSE,FALSE,44.8
+GD0789,Male,Multi-platform,19-24,Strategy,"Civilization VI",7,"Very Poor",3.8,Always,Never,High,Excellent,3.08,1,7,2,FALSE,TRUE,61.59
+GD0790,Female,Multi-platform,13-18,RPG,Skyrim,7.9,Poor,4.3,Often,Often,Low,Poor,3.4,,7.3,5,TRUE,TRUE,80.06
+GD0791,Male,Multi-platform,19-24,Strategy,"Civilization VI",7,"Very Poor",3.6,Never,Often,Moderate,Poor,1.4,3,7.6,5,TRUE,TRUE,23.82
+GD0792,Male,Mobile,31+,"Mobile Games","PUBG Mobile",1.4,Good,8.3,Often,Never,Low,Good,,9,10.4,1,FALSE,FALSE,48.31
+GD0793,Female,Multi-platform,13-18,MMO,"Final Fantasy XIV",8.7,Fair,6,Often,Sometimes,Severe,"Below Average",2.87,,6.6,5,TRUE,TRUE,486.6
+GD0794,Female,Multi-platform,13-18,"Battle Royale",Fortnite,6,Fair,6,Always,Never,Moderate,Good,1.35,,6,3,FALSE,TRUE,134.04
+GD0795,Female,Multi-platform,13-18,Strategy,"Civilization VI",4.7,Poor,5,Never,Often,Low,Good,3.27,,7.9,3,TRUE,FALSE,22.32
+GD0796,Female,PC,19-24,Strategy,"StarCraft II",3.9,Fair,6,Often,Rarely,Low,"Below Average",1.16,1,8.9,3,FALSE,FALSE,28.45
+GD0797,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",7.1,Poor,4.4,Always,Rarely,High,"Below Average",1.49,,6.3,4,TRUE,TRUE,94.86
+GD0798,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",2.9,Good,7.7,Sometimes,Never,Low,Excellent,2.13,7,8.7,1,FALSE,FALSE,41.86
+GD0799,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",6.7,"Very Poor",4,Sometimes,Daily,Moderate,"Below Average",3.55,4,4.6,4,TRUE,TRUE,59.16
+GD0800,Male,PC,25-30,MMO,"World of Warcraft",7.6,"Very Poor",3.3,Often,Often,Moderate,Good,,5,4.6,4,TRUE,TRUE,114.21
+GD0801,Male,PC,13-18,MMO,"World of Warcraft",6.6,Fair,5.8,Never,Often,Moderate,"Below Average",3.68,,5.3,5,TRUE,TRUE,59.22
+GD0802,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",5.3,Poor,5.5,Never,Rarely,Low,Average,2.26,2,5.6,3,FALSE,FALSE,112.89
+GD0803,Other,Multi-platform,13-18,RPG,Skyrim,5.6,Fair,6.3,Often,Often,Moderate,Excellent,1.82,,7.3,3,TRUE,FALSE,148.83
+GD0804,Male,Mobile,13-18,MOBA,"Mobile Legends",3.4,Good,8.4,Sometimes,Rarely,Low,"Below Average",3.17,,7.2,3,FALSE,FALSE,28.03
+GD0805,Male,PC,13-18,Strategy,"StarCraft II",8.2,Poor,5.3,Always,Often,Low,"Below Average",2.36,,5.8,5,TRUE,FALSE,88.12
+GD0806,Male,Multi-platform,19-24,FPS,Overwatch,10.5,Poor,4.8,Always,Often,Severe,Poor,1.41,6,4.9,6,TRUE,FALSE,443.88
+GD0807,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",7.4,"Very Poor",3.2,Always,Often,Moderate,"Below Average",2.8,5,8.2,4,TRUE,FALSE,20.41
+GD0808,Male,Multi-platform,25-30,"Battle Royale",PUBG,4.7,Fair,5.9,Never,Rarely,Low,"Below Average",,6,5.9,1,TRUE,FALSE,121.89
+GD0809,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",5,Fair,6.1,Sometimes,Rarely,Low,"Below Average",3.18,,8.8,2,TRUE,FALSE,90.52
+GD0810,Male,PC,19-24,Strategy,"StarCraft II",4.9,Poor,5.3,Often,Often,Low,"Below Average",3.98,9,8.9,5,TRUE,FALSE,40.15
+GD0811,Male,Multi-platform,13-18,RPG,"Cyberpunk 2077",8.7,Poor,5.1,Always,Sometimes,Severe,"Below Average",2.07,,7.2,6,TRUE,TRUE,259.52
+GD0812,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",1.7,Good,7.4,Sometimes,Rarely,Low,Good,2.27,3,9.3,1,FALSE,FALSE,16.37
+GD0813,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",6.8,Poor,5.2,Always,Often,Moderate,Failing,3.29,,6.8,6,FALSE,TRUE,26.83
+GD0814,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",8.9,Poor,4.7,Never,Often,Severe,Good,,4,4.3,7,TRUE,TRUE,391.6
+GD0815,Male,Multi-platform,25-30,RPG,"Elden Ring",4.2,Poor,5.3,Often,Often,Low,Excellent,,5,8.5,2,FALSE,FALSE,48.39
+GD0816,Male,Multi-platform,13-18,Strategy,"Civilization VI",6.9,Fair,5.7,Often,Sometimes,High,"Below Average",3.77,,7.5,3,FALSE,FALSE,146.82
+GD0817,Male,PC,25-30,MOBA,"Dota 2",6,Fair,6.3,Rarely,Daily,Moderate,Excellent,,10,5.6,3,TRUE,TRUE,107.64
+GD0818,Male,Mobile,19-24,"Mobile Games","Clash of Clans",11,Poor,5.3,Sometimes,Often,Moderate,Failing,1.88,9,4.7,6,TRUE,FALSE,341.34
+GD0819,Male,PC,13-18,MOBA,"Dota 2",11.9,Fair,5.7,Always,Daily,Severe,Average,1.03,,3.6,7,TRUE,FALSE,97.11
+GD0820,Male,Multi-platform,13-18,RPG,Skyrim,6.3,Fair,6,Often,Rarely,Moderate,Average,3.41,,6.2,3,TRUE,FALSE,147.18
+GD0821,Male,Mobile,19-24,"Mobile Games","Candy Crush",2.2,Good,7.7,Often,Often,Low,Excellent,3.16,1,9.8,1,FALSE,FALSE,0.44
+GD0822,Female,PC,19-24,MOBA,"Dota 2",6.2,Poor,5.3,Sometimes,Daily,Moderate,Good,,10,8.6,3,FALSE,FALSE,130.71
+GD0823,Female,Multi-platform,19-24,FPS,"Call of Duty",9.3,Poor,5.4,Often,Often,Severe,Poor,3.56,10,3.7,6,TRUE,TRUE,377.17
+GD0824,Male,Mobile,19-24,MOBA,"Mobile Legends",5.6,Fair,5.9,Never,Rarely,Moderate,Poor,3.33,9,8,4,TRUE,TRUE,141.67
+GD0825,Male,Multi-platform,19-24,"Battle Royale",Fortnite,6.2,Fair,5.6,Always,Daily,Moderate,Good,2.19,3,8.5,3,TRUE,TRUE,142.95
+GD0826,Female,Mobile,19-24,MOBA,"Mobile Legends",7.1,Poor,5.1,Never,Daily,Moderate,Average,1.38,6,5.2,3,TRUE,TRUE,83.29
+GD0827,Male,Multi-platform,25-30,"Battle Royale",PUBG,7,"Very Poor",3.7,Often,Daily,High,"Below Average",,1,8.5,4,FALSE,TRUE,44.15
+GD0828,Male,PC,13-18,Strategy,"Age of Empires",3.7,Fair,6.6,Always,Rarely,Low,Good,2.89,,9.2,3,FALSE,FALSE,6.16
+GD0829,Male,Multi-platform,19-24,"Battle Royale",PUBG,3.3,Good,7.4,Often,Often,Low,Excellent,,3,6.8,1,FALSE,FALSE,44.8
+GD0830,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",7.6,Fair,5.7,Rarely,Often,Moderate,Good,3.53,6,6.4,3,TRUE,FALSE,80.72
+GD0831,Female,Multi-platform,19-24,"Battle Royale",Warzone,6.4,Poor,5.4,Sometimes,Sometimes,Moderate,Average,2.18,2,7.3,4,TRUE,FALSE,18.13
+GD0832,Male,Multi-platform,19-24,"Battle Royale",Warzone,5,Poor,5.1,Never,Often,Low,"Below Average",,7,8.4,4,TRUE,FALSE,120.77
+GD0833,Female,PC,19-24,Strategy,"Age of Empires",4.2,Poor,5.3,Never,Sometimes,Low,Average,3.38,8,7.5,1,FALSE,FALSE,28.98
+GD0834,Female,Multi-platform,19-24,Strategy,"Civilization VI",10.2,Poor,5.1,Never,Sometimes,Severe,"Below Average",,5,3.1,8,TRUE,TRUE,307.08
+GD0835,Male,Mobile,19-24,MOBA,"Mobile Legends",5.1,Fair,6.5,Often,Never,Low,"Below Average",2.29,3,7.1,3,TRUE,FALSE,111.43
+GD0836,Female,Multi-platform,19-24,"Battle Royale",Fortnite,8.1,Fair,5.7,Never,Never,Severe,Poor,1.79,5,7.8,6,FALSE,TRUE,47.01
+GD0837,Male,Mobile,19-24,"Mobile Games","Clash of Clans",6.9,"Very Poor",3.5,Sometimes,Sometimes,High,Poor,2.07,2,5.2,3,TRUE,FALSE,127.17
+GD0838,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",4.5,Fair,6.6,Sometimes,Often,Low,Average,,5,8.5,2,TRUE,FALSE,145.25
+GD0839,Female,Multi-platform,13-18,RPG,"Elden Ring",6.1,Fair,6.6,Rarely,Often,Moderate,Excellent,3.87,,7.4,4,TRUE,FALSE,31.46
+GD0840,Other,Multi-platform,25-30,FPS,"Call of Duty",8.8,"Very Poor",3.4,Rarely,Daily,Severe,Average,,10,6,6,FALSE,TRUE,66.85
+GD0841,Female,PC,19-24,MMO,"World of Warcraft",5.3,Fair,5.7,Often,Never,Low,"Below Average",1.54,9,5.7,5,TRUE,FALSE,36.25
+GD0842,Male,Multi-platform,13-18,FPS,"Call of Duty",9,Fair,5.8,Rarely,Rarely,Severe,Poor,2.8,,7,6,FALSE,TRUE,315.72
+GD0843,Male,PC,19-24,Strategy,"StarCraft II",8.3,"Very Poor",3.8,Always,Sometimes,Low,Failing,,4,7.6,5,TRUE,FALSE,14.06
+GD0844,Male,PC,19-24,FPS,CS:GO,0.7,Fair,7,Always,Rarely,Low,Good,2.36,5,8.3,1,FALSE,FALSE,16.79
+GD0845,Male,PC,19-24,Strategy,"StarCraft II",10.9,Fair,5.7,Always,Never,Severe,Good,2.39,5,4.6,7,TRUE,TRUE,486.86
+GD0846,Female,Multi-platform,19-24,Strategy,"Civilization VI",10.1,Poor,4.1,Always,Rarely,High,"Below Average",3.04,2,5.2,8,TRUE,TRUE,216.97
+GD0847,Female,Multi-platform,19-24,MMO,"Elder Scrolls Online",5.7,Fair,6.1,Rarely,Sometimes,Low,"Below Average",3.04,9,5,4,TRUE,TRUE,45.63
+GD0848,Male,PC,19-24,MMO,"World of Warcraft",7,Fair,5.9,Rarely,Often,High,Failing,3.46,6,5.6,5,TRUE,TRUE,100.91
+GD0849,Male,PC,19-24,MOBA,"League of Legends",7.3,Fair,5.6,Often,Sometimes,Low,Poor,,4,8.5,3,FALSE,TRUE,29.85
+GD0850,Female,Multi-platform,19-24,Strategy,"Civilization VI",6.1,Fair,6.4,Never,Often,Moderate,Poor,3.62,8,5.1,4,FALSE,TRUE,102.56
+GD0851,Male,PC,19-24,MOBA,"League of Legends",7.1,"Very Poor",3.7,Never,Never,High,Average,,5,6.4,4,TRUE,FALSE,89.72
+GD0852,Female,Multi-platform,13-18,RPG,Skyrim,4.1,Fair,6.2,Rarely,Never,Low,Excellent,2.62,,9.6,3,FALSE,FALSE,47
+GD0853,Female,Multi-platform,19-24,MMO,"Final Fantasy XIV",4.5,Fair,5.7,Often,Sometimes,Low,Average,,9,7.1,3,TRUE,FALSE,40.72
+GD0854,Other,Multi-platform,19-24,RPG,"Cyberpunk 2077",5.2,Fair,5.9,Rarely,Daily,Low,Average,3.62,6,6.8,3,TRUE,FALSE,27.48
+GD0855,Male,PC,13-18,Strategy,"StarCraft II",2.3,Good,7.9,Rarely,Daily,Low,Excellent,3.38,,10.8,1,FALSE,FALSE,40.47
+GD0856,Other,PC,25-30,MOBA,"Dota 2",9.1,Fair,5.7,Never,Never,Moderate,"Below Average",,9,6.7,6,TRUE,FALSE,413.14
+GD0857,Male,PC,13-18,MMO,"World of Warcraft",8.2,Poor,5.2,Never,Rarely,High,"Below Average",3.83,,6.1,8,TRUE,FALSE,75.11
+GD0858,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",4.5,Fair,6.6,Often,Often,Low,Good,2.23,6,6.2,4,TRUE,FALSE,25.62
+GD0859,Male,Multi-platform,25-30,"Battle Royale",Fortnite,6.3,Fair,6.5,Rarely,Sometimes,Moderate,Excellent,,1,5.1,3,TRUE,FALSE,90.63
+GD0860,Female,Multi-platform,19-24,MMO,"Elder Scrolls Online",6.1,Fair,5.9,Sometimes,Often,Low,"Below Average",,1,5.4,4,TRUE,FALSE,49.79
+GD0861,Male,Mobile,19-24,"Mobile Games","Clash of Clans",8.1,"Very Poor",3.3,Always,Sometimes,Severe,Failing,3.11,3,6.2,6,FALSE,FALSE,84.8
+GD0862,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",5.6,Poor,5.2,Never,Never,Moderate,"Below Average",,5,5.2,4,FALSE,TRUE,98.62
+GD0863,Male,Mobile,19-24,MOBA,"Mobile Legends",0.6,Good,7.8,Always,Sometimes,Low,Average,3.18,1,8.9,2,FALSE,FALSE,20.33
+GD0864,Male,PC,19-24,MOBA,"League of Legends",6.6,Fair,6,Sometimes,Rarely,Moderate,"Below Average",2.36,3,6.7,5,TRUE,FALSE,60.38
+GD0865,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",8,Poor,4.5,Often,Sometimes,High,"Below Average",3,,5.3,5,TRUE,TRUE,14.54
+GD0866,Male,Multi-platform,19-24,"Mobile Games","Genshin Impact",14.7,"Very Poor",3.5,Never,Often,High,"Below Average",2.28,5,1.3,10,TRUE,TRUE,178.29
+GD0867,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",8.2,Poor,5,Often,Rarely,Severe,"Below Average",,5,5.7,5,TRUE,FALSE,140.71
+GD0868,Female,Mobile,19-24,"Mobile Games","Candy Crush",4.3,Fair,6.3,Rarely,Daily,Low,"Below Average",3.87,3,8.5,2,FALSE,FALSE,24.27
+GD0869,Male,PC,13-18,FPS,CS:GO,3.8,Fair,6.3,Sometimes,Never,Low,"Below Average",1.12,,9.3,2,FALSE,FALSE,26
+GD0870,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",5.8,Fair,6.4,Always,Often,Low,Average,1.49,,6.8,4,TRUE,TRUE,10.29
+GD0871,Male,Mobile,13-18,MOBA,"Mobile Legends",2.9,Good,8.5,Sometimes,Daily,Low,Good,2.27,,9.1,2,FALSE,FALSE,36
+GD0872,Male,Multi-platform,13-18,"Battle Royale",Warzone,4.9,Fair,6.1,Often,Sometimes,Low,Excellent,1.78,,7.1,3,TRUE,FALSE,128.35
+GD0873,Male,Multi-platform,13-18,"Battle Royale",PUBG,6.7,"Very Poor",3.4,Rarely,Never,Moderate,"Below Average",2.99,,7.5,4,TRUE,FALSE,10.6
+GD0874,Female,Multi-platform,25-30,"Battle Royale",Fortnite,9.5,Poor,4.7,Sometimes,Daily,Severe,"Below Average",,1,5.5,7,FALSE,FALSE,204.58
+GD0875,Male,PC,13-18,MMO,"World of Warcraft",5.7,Fair,6,Often,Never,Low,"Below Average",2.59,,6.5,4,FALSE,TRUE,30.98
+GD0876,Male,Multi-platform,19-24,FPS,Overwatch,7.1,Poor,4.2,Always,Daily,High,Failing,2.85,7,6.6,4,FALSE,TRUE,78.44
+GD0877,Female,Mobile,25-30,"Mobile Games","PUBG Mobile",7.5,"Very Poor",3.4,Often,Sometimes,Moderate,Average,,3,6.4,5,TRUE,TRUE,143.89
+GD0878,Female,Multi-platform,19-24,RPG,"Elden Ring",4.9,Fair,6.9,Rarely,Sometimes,Low,Average,1.42,3,9,2,TRUE,FALSE,85.49
+GD0879,Female,Multi-platform,19-24,"Battle Royale",Fortnite,5,Fair,5.9,Never,Daily,Low,Average,1.85,1,8.2,3,TRUE,FALSE,48.66
+GD0880,Female,Mobile,13-18,"Mobile Games","Candy Crush",2,Good,8.5,Sometimes,Often,Low,Good,3.34,,8.2,1,FALSE,FALSE,14.51
+GD0881,Male,PC,13-18,MMO,"World of Warcraft",5.8,Fair,5.8,Rarely,Daily,Moderate,Average,2.9,,7.5,5,TRUE,TRUE,40.86
+GD0882,Male,PC,19-24,MMO,"World of Warcraft",4.9,Fair,6.6,Often,Sometimes,Low,Average,1.5,1,7.2,5,TRUE,FALSE,104.88
+GD0883,Female,PC,25-30,Strategy,"StarCraft II",1.9,Good,8.5,Always,Never,Low,Good,,3,7.5,1,FALSE,FALSE,19.61
+GD0884,Female,PC,25-30,MOBA,"Dota 2",4.9,Fair,6.9,Always,Sometimes,Low,Good,,10,6.3,5,FALSE,FALSE,109.21
+GD0885,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",2.6,Good,7.2,Often,Rarely,Low,Good,2.22,4,7.8,1,FALSE,FALSE,35.73
+GD0886,Male,Multi-platform,13-18,Strategy,"Civilization VI",1,Good,8.2,Sometimes,Rarely,Low,Poor,3.18,,11.3,1,FALSE,FALSE,42.85
+GD0887,Female,Multi-platform,19-24,"Mobile Games","Genshin Impact",3.9,Fair,5.9,Always,Daily,Low,"Below Average",3.15,7,6.3,1,FALSE,FALSE,29.14
+GD0888,Male,PC,19-24,MMO,"World of Warcraft",6.4,Fair,5.6,Never,Often,Moderate,Average,1.88,10,6,4,TRUE,TRUE,126.52
+GD0889,Female,Multi-platform,13-18,Strategy,"Civilization VI",9.5,Poor,4.4,Rarely,Never,Moderate,Good,1.61,,4.7,6,TRUE,TRUE,133.69
+GD0890,Other,Multi-platform,19-24,Strategy,"Civilization VI",7.4,Fair,5.6,Never,Sometimes,High,"Below Average",2.55,1,6.8,4,TRUE,TRUE,101.34
+GD0891,Female,Multi-platform,25-30,"Battle Royale","Apex Legends",6.1,Fair,6.4,Rarely,Often,Low,Excellent,,7,5.6,5,TRUE,FALSE,67.49
+GD0892,Male,PC,25-30,Strategy,"Age of Empires",5.4,Fair,6.4,Rarely,Never,Low,Good,,2,8.3,6,FALSE,FALSE,49.34
+GD0893,Male,Multi-platform,13-18,Strategy,"Civilization VI",7.2,Poor,4.6,Rarely,Often,Moderate,Poor,1.4,,6.2,3,FALSE,FALSE,59.25
+GD0894,Male,PC,19-24,MMO,"World of Warcraft",1.7,Good,8.3,Rarely,Rarely,Low,"Below Average",1.44,9,8.8,1,FALSE,FALSE,0.8
+GD0895,Male,Multi-platform,19-24,FPS,"Call of Duty",9.5,Poor,5.4,Always,Daily,Severe,Poor,2.79,2,7.5,6,TRUE,FALSE,72.16
+GD0896,Male,Multi-platform,25-30,FPS,"Call of Duty",14.7,Poor,4.2,Sometimes,Daily,Severe,Failing,,5,2.4,10,FALSE,TRUE,380.97
+GD0897,Other,Mobile,19-24,MOBA,"Mobile Legends",5.8,Fair,6.5,Never,Sometimes,Moderate,Good,1.13,9,7.7,4,TRUE,FALSE,114.03
+GD0898,Male,Multi-platform,19-24,Strategy,"Civilization VI",1.9,Good,7.2,Often,Rarely,Low,Good,,6,10.9,2,FALSE,FALSE,5.62
+GD0899,Male,Mobile,19-24,"Mobile Games","Candy Crush",4.3,Poor,5.2,Sometimes,Daily,Low,Excellent,2.47,9,7.9,1,FALSE,FALSE,33.26
+GD0900,Male,Multi-platform,13-18,RPG,"Elden Ring",6.6,Poor,4.1,Never,Sometimes,Moderate,Failing,1.3,,5.9,4,TRUE,FALSE,92.99
+GD0901,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",6.3,Poor,5.1,Always,Sometimes,Moderate,Good,2.01,6,7,3,TRUE,TRUE,14.97
+GD0902,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",2.8,Good,7.2,Rarely,Sometimes,Low,Good,3.36,,10.2,2,FALSE,FALSE,49.53
+GD0903,Male,PC,13-18,MOBA,"Dota 2",8.1,Poor,4.9,Often,Daily,High,Average,2.72,,6.4,4,TRUE,FALSE,60.41
+GD0904,Male,Mobile,25-30,"Mobile Games","Candy Crush",6.6,Poor,5.1,Sometimes,Rarely,Moderate,Poor,,6,6.1,5,TRUE,FALSE,59.86
+GD0905,Female,PC,19-24,MOBA,"League of Legends",5.8,Fair,6.2,Rarely,Often,Moderate,Average,3.39,9,5.8,3,TRUE,TRUE,107.95
+GD0906,Male,Multi-platform,19-24,FPS,"Call of Duty",1.9,Good,7.6,Sometimes,Rarely,Low,Excellent,1.69,9,10.5,2,FALSE,FALSE,16.99
+GD0907,Female,PC,19-24,MOBA,"Dota 2",4.3,Fair,6.9,Always,Daily,Low,Excellent,,6,6.1,1,FALSE,FALSE,33.21
+GD0908,Male,Multi-platform,19-24,MMO,"Elder Scrolls Online",5.4,Fair,6.9,Sometimes,Sometimes,Low,Excellent,2.08,8,8.6,3,TRUE,FALSE,69.06
+GD0909,Male,Mobile,13-18,"Mobile Games","PUBG Mobile",12,Fair,5.8,Rarely,Daily,Severe,Poor,3.02,,2.4,7,TRUE,FALSE,405.19
+GD0910,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",8.8,"Very Poor",3.5,Sometimes,Sometimes,Severe,"Below Average",3.73,10,6.5,6,TRUE,FALSE,456.77
+GD0911,Other,Multi-platform,19-24,RPG,"Elden Ring",3.9,Fair,6.8,Sometimes,Rarely,Low,Average,3.63,1,6.5,2,FALSE,FALSE,45.92
+GD0912,Male,Multi-platform,19-24,RPG,"Cyberpunk 2077",11.6,"Very Poor",3.7,Never,Sometimes,High,Failing,2.96,8,4.1,8,TRUE,FALSE,131.29
+GD0913,Male,Multi-platform,25-30,FPS,"Call of Duty",5.2,Poor,5.3,Often,Daily,Low,Good,,2,8.2,3,TRUE,FALSE,12.79
+GD0914,Male,PC,19-24,FPS,CS:GO,4.1,Poor,5.2,Sometimes,Never,Low,Good,3.98,9,6.1,3,FALSE,FALSE,1.99
+GD0915,Male,Mobile,25-30,MOBA,"Mobile Legends",9.3,Poor,4.4,Sometimes,Sometimes,Severe,Poor,,6,4,4,TRUE,FALSE,458.97
+GD0916,Male,Multi-platform,19-24,"Battle Royale",Warzone,2.5,Good,7.4,Never,Daily,Low,Average,1.5,9,9.7,3,FALSE,FALSE,45.05
+GD0917,Male,Multi-platform,19-24,"Battle Royale",Warzone,3.6,Fair,5.6,Never,Never,Low,"Below Average",1.76,10,8.3,1,FALSE,FALSE,1.38
+GD0918,Female,PC,19-24,Strategy,"StarCraft II",8.9,Fair,5.9,Sometimes,Rarely,Severe,Failing,2.44,5,5.6,5,TRUE,FALSE,190.37
+GD0919,Male,Mobile,19-24,MOBA,"Mobile Legends",4.7,Fair,5.9,Sometimes,Rarely,Low,Average,3.63,8,8.2,4,TRUE,FALSE,79.06
+GD0920,Female,Multi-platform,19-24,FPS,"Call of Duty",6.3,Fair,6.8,Rarely,Never,Moderate,Average,2.05,2,7.8,5,TRUE,TRUE,50.08
+GD0921,Female,PC,19-24,MOBA,"League of Legends",1.8,Good,8.8,Rarely,Sometimes,Low,Good,3.8,7,7.8,1,FALSE,FALSE,47.37
+GD0922,Male,Mobile,25-30,"Mobile Games","Clash of Clans",12.4,Poor,5.1,Rarely,Rarely,Severe,Good,,7,2.9,8,FALSE,FALSE,331.29
+GD0923,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",4.1,Fair,6.4,Sometimes,Daily,Low,Average,1.12,,6.8,2,FALSE,FALSE,12.42
+GD0924,Male,Multi-platform,13-18,RPG,"Elden Ring",8.1,Poor,4.5,Always,Often,High,"Below Average",3.42,,5,6,TRUE,FALSE,82.51
+GD0925,Male,PC,19-24,Strategy,"StarCraft II",11.2,Poor,5,Always,Often,Severe,"Below Average",1.12,2,5.7,6,TRUE,TRUE,339.42
+GD0926,Male,PC,25-30,MOBA,"Dota 2",11.3,"Very Poor",3.2,Sometimes,Sometimes,Severe,Poor,,7,6.2,7,TRUE,TRUE,334.36
+GD0927,Male,PC,19-24,Strategy,"StarCraft II",4.7,Fair,5.7,Never,Often,Low,Excellent,2.63,8,7.3,1,TRUE,FALSE,74.39
+GD0928,Male,PC,13-18,Strategy,"StarCraft II",5.6,Fair,6.2,Rarely,Sometimes,Moderate,Average,3.11,,8.6,3,TRUE,FALSE,36.12
+GD0929,Male,PC,19-24,MOBA,"League of Legends",5.6,Poor,5.4,Sometimes,Rarely,Low,"Below Average",3.24,3,8.4,3,TRUE,TRUE,68.45
+GD0930,Male,Multi-platform,25-30,FPS,Overwatch,7.7,"Very Poor",3.1,Never,Never,Moderate,Poor,,3,7.2,5,TRUE,TRUE,129.71
+GD0931,Male,Multi-platform,13-18,RPG,"Elden Ring",5,Fair,5.6,Always,Daily,Low,Average,3.43,,7.7,4,TRUE,FALSE,36.8
+GD0932,Other,Multi-platform,19-24,Strategy,"Civilization VI",10.2,Poor,4.8,Never,Daily,Severe,"Below Average",3.81,8,3.9,5,FALSE,FALSE,312.2
+GD0933,Male,Multi-platform,13-18,RPG,"Elden Ring",11.4,"Very Poor",3.9,Never,Daily,Severe,Average,2.48,,5.9,9,FALSE,FALSE,367.71
+GD0934,Female,Multi-platform,25-30,RPG,"Cyberpunk 2077",10.1,"Very Poor",3.2,Rarely,Often,High,Failing,,7,4.4,9,TRUE,FALSE,154.85
+GD0935,Female,Multi-platform,19-24,"Battle Royale",Warzone,6.1,Fair,6.3,Rarely,Daily,Moderate,Good,3.58,6,8.4,3,TRUE,TRUE,135.6
+GD0936,Male,Multi-platform,19-24,Strategy,"Civilization VI",9.8,Fair,6,Always,Rarely,Severe,Poor,2.02,6,5.2,6,TRUE,TRUE,444.67
+GD0937,Male,PC,25-30,FPS,Valorant,4.9,Fair,6.1,Sometimes,Never,Low,Average,,8,6.7,2,FALSE,FALSE,36.17
+GD0938,Female,Multi-platform,19-24,FPS,Overwatch,3.4,Good,7.3,Rarely,Never,Low,Excellent,2.91,1,9.3,3,FALSE,FALSE,47.32
+GD0939,Male,Multi-platform,19-24,"Battle Royale","Apex Legends",8.6,"Very Poor",3.8,Often,Daily,High,"Below Average",1.31,6,4.2,6,TRUE,FALSE,455.29
+GD0940,Male,Multi-platform,25-30,RPG,Skyrim,11.8,"Very Poor",3.5,Never,Rarely,Severe,Failing,,4,2,8,TRUE,TRUE,227.37
+GD0941,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",5.4,Fair,5.7,Rarely,Never,Low,Average,,9,6.2,4,TRUE,FALSE,88.2
+GD0942,Male,PC,13-18,MOBA,"League of Legends",3.8,Fair,6.8,Sometimes,Sometimes,Low,Average,3.48,,8.8,1,FALSE,FALSE,46.64
+GD0943,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",8.7,Poor,4.3,Always,Sometimes,High,"Below Average",1.65,,4.6,7,TRUE,FALSE,466.73
+GD0944,Male,Multi-platform,19-24,"Battle Royale",Fortnite,11.3,Poor,4.5,Sometimes,Sometimes,Severe,Average,2.06,7,3.4,6,TRUE,FALSE,446.72
+GD0945,Female,Multi-platform,25-30,FPS,Overwatch,3.7,Fair,6.8,Often,Sometimes,Low,Average,,5,8.2,2,FALSE,FALSE,27.83
+GD0946,Male,PC,19-24,FPS,Valorant,2.5,Good,8.2,Sometimes,Often,Low,Good,,8,10.2,1,FALSE,FALSE,16.97
+GD0947,Male,PC,31+,MOBA,"Dota 2",8.9,Poor,5.5,Always,Never,High,"Below Average",,6,7.5,4,TRUE,TRUE,129.13
+GD0948,Male,Multi-platform,25-30,Strategy,"Civilization VI",3.3,Good,8.5,Always,Often,Low,Excellent,,1,7.3,3,FALSE,FALSE,24
+GD0949,Male,Mobile,19-24,"Mobile Games","PUBG Mobile",7.7,"Very Poor",3.9,Sometimes,Rarely,High,"Below Average",2.53,1,7.9,6,FALSE,FALSE,67.61
+GD0950,Male,Mobile,19-24,"Mobile Games","Candy Crush",1.1,Good,7.7,Often,Often,Low,Excellent,1.78,4,7.6,1,FALSE,FALSE,5.41
+GD0951,Female,PC,19-24,MOBA,"Dota 2",7.2,"Very Poor",3.5,Sometimes,Never,Moderate,Poor,,7,7.2,4,TRUE,TRUE,141.29
+GD0952,Male,Multi-platform,19-24,FPS,Overwatch,8.3,"Very Poor",3.7,Never,Often,Moderate,Failing,1.12,1,6.8,7,TRUE,FALSE,17.93
+GD0953,Male,Multi-platform,19-24,FPS,"Call of Duty",2.8,Good,8.2,Rarely,Never,Low,Good,1.64,1,6.9,1,FALSE,FALSE,18.69
+GD0954,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",5.5,Poor,5,Often,Daily,Low,Good,3.13,2,9.3,3,TRUE,FALSE,33.67
+GD0955,Male,Multi-platform,25-30,RPG,"Elden Ring",5.7,Poor,5.4,Never,Daily,Moderate,Good,,8,7.6,3,FALSE,TRUE,96.14
+GD0956,Other,Multi-platform,19-24,"Battle Royale",Fortnite,6,Fair,6.2,Always,Sometimes,Low,"Below Average",,2,6.8,4,TRUE,TRUE,28.31
+GD0957,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",5.9,Fair,6.2,Sometimes,Rarely,Moderate,"Below Average",2.35,5,7.9,3,TRUE,TRUE,142.99
+GD0958,Male,Multi-platform,19-24,RPG,"Elden Ring",7.7,Poor,5.2,Never,Never,High,"Below Average",3.71,2,6.2,6,TRUE,FALSE,37.02
+GD0959,Male,Multi-platform,25-30,"Battle Royale",Fortnite,4.9,Fair,6.6,Often,Sometimes,Low,Average,,2,6.1,3,TRUE,FALSE,21.48
+GD0960,Male,PC,13-18,FPS,CS:GO,7.6,"Very Poor",4,Sometimes,Daily,High,Poor,1.6,,6.6,4,TRUE,FALSE,138.82
+GD0961,Female,Mobile,13-18,MOBA,"Mobile Legends",5.2,Poor,5.1,Often,Daily,Low,Average,3.82,,6.4,4,TRUE,FALSE,77.03
+GD0962,Female,Mobile,19-24,"Mobile Games","Candy Crush",6.8,Poor,5.3,Sometimes,Never,High,Poor,2.55,1,5.4,5,TRUE,FALSE,77.66
+GD0963,Female,PC,13-18,FPS,CS:GO,10.8,Poor,5,Rarely,Rarely,High,Average,3.21,,4,6,TRUE,TRUE,110.92
+GD0964,Male,PC,19-24,MOBA,"Dota 2",3.6,Fair,5.6,Often,Often,Low,Average,,9,8.2,4,FALSE,FALSE,46.98
+GD0965,Male,Multi-platform,19-24,"Battle Royale",Warzone,9.3,Poor,5.1,Rarely,Never,Severe,Poor,1.78,4,3.9,4,FALSE,TRUE,50.18
+GD0966,Other,PC,13-18,FPS,Valorant,7.6,Poor,4.8,Never,Daily,High,Excellent,1.05,,6.1,3,TRUE,TRUE,37.08
+GD0967,Male,PC,19-24,Strategy,"StarCraft II",7,"Very Poor",4,Often,Daily,High,Poor,3.3,3,7.3,5,FALSE,FALSE,54.91
+GD0968,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",1,Good,7.9,Often,Never,Low,Excellent,,8,10.9,1,FALSE,FALSE,8.43
+GD0969,Female,Multi-platform,13-18,"Battle Royale",Warzone,2.8,Good,8.6,Always,Never,Low,Good,1.4,,8.4,2,FALSE,FALSE,17.43
+GD0970,Male,Multi-platform,13-18,"Mobile Games","Genshin Impact",4.1,Poor,5.5,Rarely,Never,Low,Good,1.13,,6.4,2,FALSE,FALSE,32.97
+GD0971,Female,Multi-platform,19-24,Strategy,"Civilization VI",6.3,Fair,6.5,Sometimes,Often,Low,Good,1.24,6,7.4,4,TRUE,FALSE,70.66
+GD0972,Female,PC,13-18,Strategy,"StarCraft II",8.5,"Very Poor",3.6,Never,Rarely,Moderate,Poor,2.36,,5.8,5,TRUE,TRUE,231.04
+GD0973,Male,Multi-platform,13-18,"Battle Royale","Apex Legends",7.4,Poor,5.3,Often,Often,High,Failing,2.66,,4.8,5,TRUE,TRUE,54.82
+GD0974,Male,PC,19-24,FPS,CS:GO,11,Poor,4.9,Always,Daily,Severe,Failing,,5,5.7,6,FALSE,TRUE,388.42
+GD0975,Male,Multi-platform,19-24,FPS,"Call of Duty",7.8,Poor,4.8,Never,Often,Moderate,"Below Average",2.91,7,5.2,3,TRUE,FALSE,146.41
+GD0976,Female,Multi-platform,13-18,MMO,"Elder Scrolls Online",8.3,Poor,4.9,Sometimes,Never,Moderate,Poor,2.73,,4.8,7,TRUE,TRUE,59.04
+GD0977,Female,Multi-platform,25-30,RPG,"Elden Ring",4.2,Fair,5.9,Always,Sometimes,Low,Average,,8,8.7,4,FALSE,FALSE,30.61
+GD0978,Female,PC,19-24,FPS,CS:GO,7.4,Poor,5.5,Rarely,Never,High,"Below Average",1.88,3,7.4,5,TRUE,FALSE,113.01
+GD0979,Male,PC,19-24,FPS,CS:GO,8.4,Fair,5.9,Often,Never,High,Poor,2.33,9,5.3,6,TRUE,FALSE,44.54
+GD0980,Female,Mobile,19-24,"Mobile Games","PUBG Mobile",8.7,Poor,4.4,Never,Sometimes,Severe,"Below Average",2.48,4,6.9,5,TRUE,TRUE,107.16
+GD0981,Male,PC,25-30,FPS,CS:GO,9.4,Poor,4.5,Rarely,Daily,Severe,Average,,9,6.8,5,TRUE,TRUE,361.61
+GD0982,Female,Multi-platform,19-24,Strategy,"Civilization VI",13.6,Fair,5.8,Rarely,Often,Severe,Failing,2.92,5,2.4,8,TRUE,FALSE,438.83
+GD0983,Male,PC,13-18,Strategy,"Age of Empires",7.1,Poor,4.1,Sometimes,Never,Low,Failing,2.07,,8.1,5,TRUE,FALSE,105.16
+GD0984,Male,PC,19-24,MOBA,"Dota 2",5.9,Poor,5,Often,Never,Low,Good,,2,8.3,5,FALSE,TRUE,124.93
+GD0985,Male,Multi-platform,25-30,"Battle Royale","Apex Legends",4.4,Fair,6.5,Often,Never,Low,Failing,,8,8.5,4,FALSE,FALSE,20.1
+GD0986,Male,Multi-platform,13-18,"Battle Royale",Warzone,7.3,"Very Poor",4,Always,Daily,Moderate,Poor,2.9,,6.8,3,FALSE,FALSE,67.44
+GD0987,Female,Multi-platform,13-18,FPS,Overwatch,3.5,Fair,6.1,Often,Sometimes,Low,Average,3.68,,6.9,1,FALSE,FALSE,1.35
+GD0988,Male,PC,19-24,MOBA,"Dota 2",4.7,Fair,6.7,Often,Often,Low,Excellent,2.02,10,6.5,2,FALSE,FALSE,59.91
+GD0989,Male,Multi-platform,19-24,MMO,"Final Fantasy XIV",4.4,Poor,5.4,Sometimes,Sometimes,Low,Good,2.26,5,9.7,3,FALSE,FALSE,8.08
+GD0990,Male,PC,13-18,MOBA,"League of Legends",1.5,Good,9,Often,Daily,Low,Good,2.91,,9,1,FALSE,FALSE,45.29
+GD0991,Female,PC,19-24,FPS,Valorant,7,"Very Poor",3.2,Often,Daily,Moderate,Poor,3,1,7.7,5,FALSE,TRUE,121.06
+GD0992,Female,Multi-platform,19-24,RPG,"Cyberpunk 2077",3.6,Fair,6.8,Never,Rarely,Low,"Below Average",,8,7.7,1,FALSE,FALSE,31.45
+GD0993,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",6.1,Poor,5.5,Rarely,Often,Low,"Below Average",1.11,,8.3,3,TRUE,FALSE,143.48
+GD0994,Female,Multi-platform,31+,RPG,Skyrim,4.9,Fair,5.7,Always,Never,Low,Poor,,4,6.4,5,FALSE,FALSE,18.84
+GD0995,Female,Multi-platform,19-24,"Battle Royale","Apex Legends",9.3,Fair,5.8,Rarely,Never,Severe,Poor,2.53,8,4.4,6,FALSE,FALSE,220.04
+GD0996,Female,PC,13-18,Strategy,"Age of Empires",8.6,Poor,4.1,Always,Sometimes,Severe,Average,2.96,,7.5,6,TRUE,TRUE,426.54
+GD0997,Male,Multi-platform,13-18,MMO,"Elder Scrolls Online",5.4,Fair,6.5,Never,Often,Low,Excellent,3.42,,7.7,1,TRUE,FALSE,83.71
+GD0998,Male,Multi-platform,19-24,RPG,Skyrim,7.3,"Very Poor",3.9,Rarely,Daily,High,Poor,,3,8.1,5,FALSE,TRUE,88.6
+GD0999,Male,PC,13-18,Strategy,"StarCraft II",3.1,Good,8.2,Sometimes,Rarely,Low,Good,1.03,,8.4,1,FALSE,FALSE,22.02
+GD1000,Male,Multi-platform,25-30,RPG,"Cyberpunk 2077",3.5,Good,7.4,Sometimes,Daily,Low,"Below Average",,6,9.3,2,FALSE,FALSE,25.2
