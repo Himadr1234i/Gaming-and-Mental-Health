@@ -1,14 +1,14 @@
-# Gaming-and-Mental-Health 🎮 Himadri Shekhar Barman
+# Gaming and Mental Health
 
- # Data Analyst | Creative Developer
+# Data Analyst 
 
-I work on making data easy to understand and fun to look at. I love games like Dark Souls and anime-style art.
+I create data visuals and dashboards. I enjoy video games such as Dark Souls and anime artworks.
 
 # 📡 Profile
 
-I help entertainment and gaming companies make sense of their data. I use data to tell stories and make pictures.
+I provide insights to entertainment and gaming organizations using their data. I create storytelling and visualizations using data.
 
-# 🛠️ My Tools
+# 🛠️ Tools That I Use
 
 * Data Analysis
 
@@ -22,22 +22,21 @@ I help entertainment and gaming companies make sense of their data. I use data t
 
 * Art
 
-* Stylized 2D Environment. Animation
+* Stylized 2D Environment & Animation
 
-# ⚔️ My Project: Game Pulse Analytics
+# ⚔️ Project: Game Pulse Analytics
 
-I studied how gaming habits affect players health.
+I researched the effects of gaming habits on the health of gamers.
 
-Gaming data shows that people who play a lot have problems. They don't sleep enough. Spend too much money.
+The analysis of the gaming dataset reveals that gamers have issues. They do not get enough sleep. Expend more money than required.
 
-# 🔍 Project Highlights:
+# 🔍 Key Project Insights:
 
-* I found out that playing games for 5.6 hours a day means you sleep 2.1 hours less than you should.
+* Playing games for 5.6 hours results in getting 2.1 fewer sleeping hours than recommended.
 
-* 19% of players are at risk of getting addicted. They spend 34% more money.
+* 19 percent of gamers have the potential of becoming addicted. They expend 34 percent more funds than average.
 
-* I cleaned up a dataset, with 27 variables to make sure the information was correct. I used SQL to fix the problems.
-
+* I curated an uncleaned dataset of 27 variables to ensure proper information. I applied SQL operations to rectify the dataset.
 #### 📜 Data Dictionary: The Game Pulse Codex
 | Attribute | Logic / Definition | Significance |
 | :--- | :--- | :--- |
