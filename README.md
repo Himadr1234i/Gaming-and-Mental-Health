@@ -1,34 +1,42 @@
-# Gaming-and-Mental-Health
-# 🎮 Himadri Shekhar Barman
-**Data Analyst | Creative Developer**
+# Gaming-and-Mental-Health 🎮 Himadri Shekhar Barman
 
-> *Bridging the gap between raw data and immersive storytelling. Inspired by Souls-like atmospheres and stylized anime aesthetics.*
+ # Data Analyst | Creative Developer
 
----
+I work on making data easy to understand and fun to look at. I love games like Dark Souls and anime-style art.
 
-### 📡 Profile
-I transform complex datasets into actionable insights for the entertainment and gaming industry. My approach combines rigorous technical analysis with a minimalist, high-contrast visual style.
+# 📡 Profile
 
----
+I help entertainment and gaming companies make sense of their data. I use data to tell stories and make pictures.
 
-### 🛠️ Technical Arsenal & Toolkit
-| Category | Tools |
-| :--- | :--- |
-| **Data Analysis** | Python (Pandas), MySQL, Tableau, Power BI |
-| **Creative Art** | Stylized 2D Environment Art & Animation |
-| **Environment** | Windows 11 (Ryzen 7 | 16GB RAM) |
+# 🛠️ My Tools
 
----
+* Data Analysis
 
-### ⚔️ Featured Project: Game Pulse Analytics
-*An investigation into the psychological and physical impacts of gaming habits on player health.*
+* Python
 
-> *A data-shard reflecting the habits of those who dwell in digital lands. It reveals a heavy cost on the spirit for those seeking high-level engagement.*
+* MySQL
 
-#### 🔍 Project Highlights:
-* **The "Tipping Point":** Average daily gaming of **5.6h** correlates with a sleep deficit of **2.1h** below the recommended average.
-* **Addiction Risk:** 19% of players flagged for **Severe Risk**, showing a direct link to a **34% increase** in monthly spending.
-* **Integrity:** Cleaned a 27-variable dataset, resolving platform-mismatch anomalies via SQL.
+* Tableau
+
+* Power BI
+
+* Art
+
+* Stylized 2D Environment. Animation
+
+# ⚔️ My Project: Game Pulse Analytics
+
+I studied how gaming habits affect players health.
+
+Gaming data shows that people who play a lot have problems. They don't sleep enough. Spend too much money.
+
+# 🔍 Project Highlights:
+
+* I found out that playing games for 5.6 hours a day means you sleep 2.1 hours less than you should.
+
+* 19% of players are at risk of getting addicted. They spend 34% more money.
+
+* I cleaned up a dataset, with 27 variables to make sure the information was correct. I used SQL to fix the problems.
 
 #### 📜 Data Dictionary: The Game Pulse Codex
 | Attribute | Logic / Definition | Significance |
