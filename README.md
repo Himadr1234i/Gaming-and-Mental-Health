@@ -40,10 +40,9 @@ I transform complex datasets into actionable insights for the entertainment and 
 | **Academic Performance**| GPA or performance tier relative to gaming frequency. | Measures real-world impact. |
 
 #### 🔗 Explore the Work:
-* 📊 **[Live Interactive Dashboard](Dashboard/gaming_dashboard_v3.html)** — *Best viewed on Desktop.*
+* 📊 **[Live Interactive Dashboard](https://himadr1234i.github.io/Gaming-and-Mental-Health/Dashboard/gaming_dashboard_v3.html)** — *Best viewed on Desktop.*
 * 📁 **[Cleaned Dataset: whole_set3.csv](./Data/whole_set3.csv)** — *Source data (1,000+ entries).*
 * 📁 **[SQL Processing Scripts](./SQL_Query/Gamers_mind3.sql)** — *Data cleaning and Case logic.*
-
 ---
 
 ### ⚡ GitHub Activity
